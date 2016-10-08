@@ -30,10 +30,58 @@
     </tu>
     <tu>
       <tuv lang="BO">
+        <seg>གཟུགས མེད ཉེར འགྲོའི ཕྱིར མི འོང སྐྱེས འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172725Z" creationid="xingfu" creationdate="20161008T172725Z">
+        <seg>行無色不還生般、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དང པོ ནི།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173024Z" creationid="xingfu" creationdate="20161008T173024Z">
+        <seg>講說阿羅漢向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
         <seg>དེ ལ དབྱེ ན།</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172710Z" creationid="xingfu" creationdate="20161008T172710Z">
         <seg>此可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>བཞི པ དགྲ བཅོམ གྱི སྐོར ལ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172952Z" creationid="xingfu" creationdate="20161008T172952Z">
+        <seg>講說有關阿羅漢可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>ཞུགས པ དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173008Z" creationid="xingfu" creationdate="20161008T173008Z">
+        <seg>阿羅漢向、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདུ བྱེད དང བཅས ཏེ འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172742Z" creationid="xingfu" creationdate="20161008T172742Z">
+        <seg>有行般、འདུ བྱེད དང བཅས ཏེ འདའ བ།</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདུ བྱེད མེད པར འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172758Z" creationid="xingfu" creationdate="20161008T172758Z">
+        <seg>無行般、</seg>
       </tuv>
     </tu>
     <tu>
@@ -43,6 +91,30 @@
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172657Z" creationid="xingfu" creationdate="20161008T172657Z">
         <seg>欲界所依不還，不受取色界，於無色所依證涅槃之品類者，
 是行無色不還之能安立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འབྲས གནས གཉིས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173016Z" creationid="xingfu" creationdate="20161008T173016Z">
+        <seg>住阿羅漢果二者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འབྲས བུ ཐོད རྒལ བའི ཕྱིར མི འོང ནི བདེན པ མངོན རྟོགས སྐད ཅིག བཅུ དྲུག པ ནས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172932Z" creationid="xingfu" creationdate="20161008T172932Z">
+        <seg>不還超越果者，則安住於從諦現觀十六剎那位乃至</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྲིད ཉོན དགུ པ སྤོང པའི བར ཆད མེད ལམ ལ གནས པའི བར དུ ཡོད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172941Z" creationid="xingfu" creationdate="20161008T172941Z">
+        <seg>正斷有頂煩惱九品之無間道。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
