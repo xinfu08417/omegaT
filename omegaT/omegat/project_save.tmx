@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="BO"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="BO">
+        <seg>???</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T171530Z" creationid="xingfu" creationdate="20161008T171530Z">
+        <seg>翻譯記憶測試</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
