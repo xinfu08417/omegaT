@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="BO"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="BO">
+        <seg>???</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T171530Z" creationid="xingfu" creationdate="20161008T171530Z">
+        <seg>翻譯記憶測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>Page &lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="apple" changedate="20161008T171944Z" creationid="apple" creationdate="20161008T171944Z">
+        <seg>其他電腦同步測試&lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
