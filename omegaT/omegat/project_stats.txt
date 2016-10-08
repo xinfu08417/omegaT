@@ -1,14 +1,14 @@
-2016/10/9 上午 1:05
+2016/10/9 上午 1:16
 方案數據統計
 
           	分節數	 字數	字元數（不含空白）	字元數（含空白）	#Files	
 總數：       	 83	951	     2886	    3744	     1	
-Remaining:	 83	951	     2886	    3744	     1	
+Remaining:	 82	951	     2883	    3741	     1	
 唯一分節：     	 78	937	     2845	    3694	     1	
-剩餘唯一分節：   	 78	937	     2845	    3694	     1	
+剩餘唯一分節：   	 77	937	     2842	    3691	     1	
 
 
 個別檔案數據統計：
 
 檔案名稱          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	總字數	剩餘字數	Unique Words	Unique Remaining Words	總字元數（不含空白）	剩餘字元數（不含空白）	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	總字元數（含空白）	剩餘字元數（含空白）	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-omegaT測試去點.ods	            83	                83	             78	                       78	951	 951	         937	                   937	      2886	       2886	                              2845	                                        2845	     3744	      3744	                                3694	                                          3694	
+omegaT測試去點.ods	            83	                82	             78	                       77	951	 951	         937	                   937	      2886	       2883	                              2845	                                        2842	     3744	      3741	                                3694	                                          3691	
