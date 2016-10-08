@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="BO">
+        <seg>གནས པ ལས མི བསྐྱོད པའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173728Z" creationid="xingfu" creationdate="20161008T173728Z">
+        <seg>安住法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
         <seg>གཟུགས གཟུགས མེད ཀྱི འདོད ཆགས དང༌།</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173354Z" creationid="xingfu" creationdate="20161008T173354Z">
@@ -135,10 +143,26 @@
     </tu>
     <tu>
       <tuv lang="BO">
+        <seg>བདག གསོད པའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173658Z" creationid="xingfu" creationdate="20161008T173658Z">
+        <seg>思法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
         <seg>བཞི པ དགྲ བཅོམ གྱི སྐོར ལ།</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172952Z" creationid="xingfu" creationdate="20161008T172952Z">
         <seg>講說有關阿羅漢可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>མི གཡོ བའི ཆོས ཅན དང དྲུག དེ ཡང དང པོ ལྔ དད མོས དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173754Z" creationid="xingfu" creationdate="20161008T173754Z">
+        <seg>不動法，共六種。此復前五者信解生，</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +230,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173407Z" creationid="xingfu" creationdate="20161008T173407Z">
         <seg>掉舉、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>རྗེས སུ བསྲུང བའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173714Z" creationid="xingfu" creationdate="20161008T173714Z">
+        <seg>護法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>རྟོགས པའི འོས སུ གྱུར བའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173745Z" creationid="xingfu" creationdate="20161008T173745Z">
+        <seg>堪達法、</seg>
       </tuv>
     </tu>
     <tu>
