@@ -158,6 +158,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>自動匹配沒問題</note>
+      <tuv lang="BO">
+        <seg>མཛོད ལས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="toumay_mac" changedate="20161008T174455Z" creationid="toumay_mac" creationdate="20161008T174455Z">
+        <seg>俱舍論：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="BO">
         <seg>མི གཡོ བའི ཆོས ཅན དང དྲུག དེ ཡང དང པོ ལྔ དད མོས དང༌།</seg>
       </tuv>
