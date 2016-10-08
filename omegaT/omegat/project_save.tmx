@@ -13,6 +13,9 @@
       </tuv>
     </tu>
     <tu>
+      <note>測試多台機器一起翻譯 跨平台
+自動匹配、翻譯記憶、共用詞彙表ok
+</note>
       <tuv lang="BO">
         <seg>???</seg>
       </tuv>
