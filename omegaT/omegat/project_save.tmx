@@ -12,6 +12,14 @@
         <seg>翻譯記憶測試</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>Page &lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="apple" changedate="20161008T171944Z" creationid="apple" creationdate="20161008T171944Z">
+        <seg>其他電腦同步測試&lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
