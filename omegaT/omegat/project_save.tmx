@@ -28,6 +28,23 @@
         <seg>其他電腦同步測試&lt;t0&gt;1&lt;/t0&gt;</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དེ ལ དབྱེ ན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172710Z" creationid="xingfu" creationdate="20161008T172710Z">
+        <seg>此可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདོད པའི རྟེན ཅན གྱི ཕྱིར མི འོང གང ཞིག གཟུགས སུ སྐྱེ བ མ བླངས པར གཟུགས མེད ཀྱི རྟེན ལ མྱང འདས མངོན དུ བྱེད པའི རིགས ཅན དེ གཟུགས མེད ཉེར འགྲོའི ཕྱིར མི འོང གི འཇོག བྱེད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172657Z" creationid="xingfu" creationdate="20161008T172657Z">
+        <seg>欲界所依不還，不受取色界，於無色所依證涅槃之品類者，
+是行無色不還之能安立。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
