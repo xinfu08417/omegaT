@@ -138,6 +138,14 @@
     </tu>
     <tu>
       <tuv lang="BO">
+        <seg>དམིགས པ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161010T043447Z" creationid="xingfu" creationdate="20161010T043447Z">
+        <seg>所緣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
         <seg>དེ ལ དབྱེ ན།</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172710Z" creationid="xingfu" creationdate="20161008T172710Z">
@@ -158,6 +166,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173658Z" creationid="xingfu" creationdate="20161008T173658Z">
         <seg>思法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>བདེན བཞི</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161010T043453Z" creationid="xingfu" creationdate="20161010T043453Z">
+        <seg>四諦</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +282,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173745Z" creationid="xingfu" creationdate="20161008T173745Z">
         <seg>堪達法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>ལ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161010T043349Z" creationid="xingfu" creationdate="20161010T043349Z">
+        <seg>於(虛詞)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྒྲུབ པའི</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161010T043431Z" creationid="xingfu" creationdate="20161010T043431Z">
+        <seg>正行、成立法、行</seg>
       </tuv>
     </tu>
     <tu>
