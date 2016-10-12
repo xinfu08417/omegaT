@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="BO"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="BO">
+        <seg>&lt;t0&gt;???&lt;/t0&gt; (&lt;t1&gt;???&lt;/t1&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172103Z" creationid="xingfu" creationdate="20161008T172103Z">
+        <seg>其他電腦同步測試完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>???</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T171530Z" creationid="xingfu" creationdate="20161008T171530Z">
+        <seg>翻譯記憶測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>Page &lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="apple" changedate="20161008T171944Z" creationid="apple" creationdate="20161008T171944Z">
+        <seg>其他電腦同步測試&lt;t0&gt;1&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>གནས པ ལས མི བསྐྱོད པའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173728Z" creationid="xingfu" creationdate="20161008T173728Z">
+        <seg>安住法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>གཟུགས གཟུགས མེད ཀྱི འདོད ཆགས དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173354Z" creationid="xingfu" creationdate="20161008T173354Z">
+        <seg>色與無色貪、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>གཟུགས མེད ཉེར འགྲོའི ཕྱིར མི འོང སྐྱེས འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172725Z" creationid="xingfu" creationdate="20161008T172725Z">
+        <seg>行無色不還生般、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>གོང མའི ཆ མཐུན ལྔ ཡོད དེ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173347Z" creationid="xingfu" creationdate="20161008T173347Z">
+        <seg>五順上分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>གོང མའི ཆ མཐུན ལྔ སྤངས པས རབ ཏུ ཕྱེ བའི དགེ སྦྱོང ཚུལ གྱི འབྲས བུ ལ གནས པའི གང ཟག དགྲ བཅོམ འབྲས གནས ཀྱི འཇོག བྱེད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173325Z" creationid="xingfu" creationdate="20161008T173317Z">
+        <seg>「安住於唯是斷除五順上分之沙門性果之補特伽羅」，是住阿羅漢果之能安立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>ང རྒྱལ དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173416Z" creationid="xingfu" creationdate="20161008T173416Z">
+        <seg>我慢及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>？</note>
+      <tuv lang="BO">
+        <seg>ཆུང ངུའི ཆུང ངུ དགུ ཅིག ཆར སྤོང བའི བར ཆད མེད ལམ ལ གནས ཀྱི བར དུ ཡོད དོ། །</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173219Z" creationid="xingfu" creationdate="20161008T173219Z">
+        <seg>正？？斷  下下品九品之無間道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>ཉོན མོངས ཅན གྱི མ རིག པ རྣམས ཡིན པའི ཕྱིར།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173454Z" creationid="xingfu" creationdate="20161008T173454Z">
+        <seg>染污無明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དང པོ དང ཕྱིར མི འོང གི རྟོགས པ སྔོན དུ སོང བའི དགྲ བཅོམ འབྲས གནས གཉིས དོན གཅིག གཉིས པ དང སྤང བྱ ཅིག ཆར བའི རྒྱུན ཞུགས ཀྱི རྟོགས པ སྔོན དུ སོང བའི དགྲ བཅོམ འབྲས གནས གཉིས དོན གཅིག</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173626Z" creationid="xingfu" creationdate="20161008T173626Z">
+        <seg>前者與曾有不還證量之住阿羅漢果二者同義；第二與曾有預流證量之頓斷住阿羅漢果二者同義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དང པོ ནི།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173024Z" creationid="xingfu" creationdate="20161008T173024Z">
+        <seg>講說阿羅漢向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དབང པོའི སྒོ ནས དབྱེ ན ཡོངས སུ ཉམས པའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173640Z" creationid="xingfu" creationdate="20161008T173640Z">
+        <seg>以根門可分為：退法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དབྱེ ན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173052Z" creationid="xingfu" creationdate="20161008T173052Z">
+        <seg>可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དེ ལ དབྱེ ན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172710Z" creationid="xingfu" creationdate="20161008T172710Z">
+        <seg>此可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>ཕྱི མ དང ཕྱིར མི འོང འབྲས གནས ཁྱད པར ཅན དོན གཅིག དང པོ དང སྤང བྱ ཅིག ཆར བའི རྒྱུན ཞུགས འབྲས གནས ཁྱད པར ཅན དོན གཅིག ས མཚམས ནི།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173128Z" creationid="xingfu" creationdate="20161008T173128Z">
+        <seg>後者與住不還果勝進者同義，前者則與頓斷住預流果勝進者同義。限界：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>བདག གསོད པའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173658Z" creationid="xingfu" creationdate="20161008T173658Z">
+        <seg>思法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>བཞི པ དགྲ བཅོམ གྱི སྐོར ལ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172952Z" creationid="xingfu" creationdate="20161008T172952Z">
+        <seg>講說有關阿羅漢可分為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>自動匹配沒問題</note>
+      <tuv lang="BO">
+        <seg>མཛོད ལས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="toumay_mac" changedate="20161008T174455Z" creationid="toumay_mac" creationdate="20161008T174455Z">
+        <seg>俱舍論：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>མི གཡོ བའི ཆོས ཅན དང དྲུག དེ ཡང དང པོ ལྔ དད མོས དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173754Z" creationid="xingfu" creationdate="20161008T173754Z">
+        <seg>不動法，共六種。此復前五者信解生，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>ཞུགས པ དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173008Z" creationid="xingfu" creationdate="20161008T173008Z">
+        <seg>阿羅漢向、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདུ བྱེད དང བཅས ཏེ འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172742Z" creationid="xingfu" creationdate="20161008T172742Z">
+        <seg>有行般、འདུ བྱེད དང བཅས ཏེ འདའ བ།</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདུ བྱེད མེད པར འདའ བ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172758Z" creationid="xingfu" creationdate="20161008T172758Z">
+        <seg>無行般、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འདོད པའི རྟེན ཅན གྱི ཕྱིར མི འོང གང ཞིག གཟུགས སུ སྐྱེ བ མ བླངས པར གཟུགས མེད ཀྱི རྟེན ལ མྱང འདས མངོན དུ བྱེད པའི རིགས ཅན དེ གཟུགས མེད ཉེར འགྲོའི ཕྱིར མི འོང གི འཇོག བྱེད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172657Z" creationid="xingfu" creationdate="20161008T172657Z">
+        <seg>欲界所依不還，不受取色界，於無色所依證涅槃之品類者，
+是行無色不還之能安立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འབྲས གནས གཉིས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173016Z" creationid="xingfu" creationdate="20161008T173016Z">
+        <seg>住阿羅漢果二者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འབྲས གནས བཞིའི ནང ནས གཙོ བོར གོང མའི ཆ མཐུན ལྔ སྤངས པས རབ ཏུ ཕྱེ བའི རིགས སུ གནས པའི དགེ སྦྱོང ཚུལ གྱི འབྲས བུ ཐོབ ཕྱིར དུ བརྩོན བཞིན པའི འཕགས པའི གང ཟག དེ དགྲ བཅོམ ཞུགས པའི འཇོག བྱེད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173043Z" creationid="xingfu" creationdate="20161008T173043Z">
+        <seg>「四住果中主要唯是斷五順上分之住類之沙門性果，主要
+為證得其果而正精勤之聖者補特伽羅」，
+是阿羅漢向之能安立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འབྲས བུ ཐོད རྒལ བའི ཕྱིར མི འོང ནི བདེན པ མངོན རྟོགས སྐད ཅིག བཅུ དྲུག པ ནས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172932Z" creationid="xingfu" creationdate="20161008T172932Z">
+        <seg>不還超越果者，則安住於從諦現觀十六剎那位乃至</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>རྒོད པ དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173407Z" creationid="xingfu" creationdate="20161008T173407Z">
+        <seg>掉舉、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>རྗེས སུ བསྲུང བའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173714Z" creationid="xingfu" creationdate="20161008T173714Z">
+        <seg>護法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>རྟོགས པའི འོས སུ གྱུར བའི ཆོས ཅན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173745Z" creationid="xingfu" creationdate="20161008T173745Z">
+        <seg>堪達法、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྤང བྱ ཅིག ཆར བའི དགྲ བཅོམ ཞུགས པ ཁམས གསུམ གྱི སྒོམ སྤངས ཉོན མོངས ཆེན པོའི ཆེན པོ དགུ ཅིག ཆར སྤོང བ ནས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173210Z" creationid="xingfu" creationdate="20161008T173210Z">
+        <seg>頓斷阿羅漢向從正頓斷三界修惑上上品九品乃至</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྤང བྱ ཅིག ཆར བའི དགྲ བཅོམ ཞུགས པ དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173102Z" creationid="xingfu" creationdate="20161008T173102Z">
+        <seg>頓斷阿羅漢向與</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྤང བྱ ཅིག ཆར བའི དགྲ བཅོམ འབྲས གནས གཉིས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173606Z" creationid="xingfu" creationdate="20161008T173606Z">
+        <seg>頓斷住阿羅漢果二種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྤང བྱ རིམ གྱིས པའི དགྲ བཅོམ ཞུགས པ གཉིས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173110Z" creationid="xingfu" creationdate="20161008T173110Z">
+        <seg>漸斷阿羅漢向二種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྤང བྱ རིམ གྱིས པའི དགྲ བཅོམ ཞུགས པ སྒོམ སྤངས ཉོན མོངས ལྷག མ སྤོང བ ལ བརྩོན པ ནས སྲིད ཉོན དགུ པ སྤོང བའི བར ཆད མེད ལམ གྱི བར དུ ཡོད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173142Z" creationid="xingfu" creationdate="20161008T173142Z">
+        <seg>從漸斷阿羅漢向正精勤於斷除剩餘修惑乃至正斷有頂九品之無間道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྤང བྱ རིམ གྱིས པའི དགྲ བཅོམ འབྲས གནས དང༌།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T173535Z" creationid="xingfu" creationdate="20161008T173535Z">
+        <seg>漸斷住阿羅漢果與</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>སྲིད ཉོན དགུ པ སྤོང པའི བར ཆད མེད ལམ ལ གནས པའི བར དུ ཡོད།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172941Z" creationid="xingfu" creationdate="20161008T172941Z">
+        <seg>正斷有頂煩惱九品之無間道。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

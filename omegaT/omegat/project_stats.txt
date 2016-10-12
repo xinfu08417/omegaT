@@ -1,14 +1,15 @@
-2016/10/9 上午 1:40
+2016/10/12 下午 12:32
 方案數據統計
 
-          	分節數	 字數	字元數（不含空白）	字元數（含空白）	#Files	
-總數：       	 83	951	     2886	    3744	     1	
-Remaining:	 44	463	     1425	    1830	     1	
-唯一分節：     	 78	937	     2845	    3694	     1	
-剩餘唯一分節：   	 41	457	     1402	    1804	     1	
+          	分節數	  字數	字元數（不含空白）	字元數（含空白）	#Files	
+總數：       	264	1290	     3987	    5003	     2	
+Remaining:	214	 776	     2447	    2995	     2	
+唯一分節：     	252	1263	     3904	    4905	     2	
+剩餘唯一分節：   	207	 762	     2397	    2938	     2	
 
 
 個別檔案數據統計：
 
-檔案名稱          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	總字數	剩餘字數	Unique Words	Unique Remaining Words	總字元數（不含空白）	剩餘字元數（不含空白）	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	總字元數（含空白）	剩餘字元數（含空白）	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-omegaT測試去點.ods	            83	                44	             78	                       41	951	 463	         937	                   457	      2886	       1425	                              2845	                                        1402	     3744	      1830	                                3694	                                          1804	
+檔案名稱                    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	總字數	剩餘字數	Unique Words	Unique Remaining Words	總字元數（不含空白）	剩餘字元數（不含空白）	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	總字元數（含空白）	剩餘字元數（含空白）	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+omegaT測試去點.ods          	            83	                40	             78	                       39	951	 448	         937	                   446	      2886	       1379	                              2845	                                        1370	     3744	      1773	                                3694	                                          1763	
+流程測試_三皈依 去點 去數字 換符號.xlsx	           181	               174	            174	                      168	339	 328	         326	                   316	      1101	       1068	                              1059	                                        1027	     1259	      1222	                                1211	                                          1175	
