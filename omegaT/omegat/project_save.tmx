@@ -154,6 +154,22 @@
     </tu>
     <tu>
       <tuv lang="BO">
+        <seg>དེ་ལྟར་སྒྲུབ་པའི་དམིགས་པ་བདེན་བཞི་ལ་འདོམས་པའི་གདམས་ངག་གསུངས་ནས།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="yenli" changedate="20161012T043008Z" creationid="yenli" creationdate="20161012T043008Z">
+        <seg>彼་ལྟར་སྒྲུབ་པའི་དམིགས་པ་བདེན་བཞི་ལ་འདོམས་པའི་གདམས་ངག་གསུངས་ནས།</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>དེའི་རྗེས་སུ་སྒྲུབ་པའི་རྟེན་དཀོན་མཆོག་གསུམ་ལ་འདོམས་པའི་གདམས་ངག་འཆད་པའི་རྒྱུ་མཚན་ཡོད་དེ།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="yenli" changedate="20161012T043035Z" creationid="yenli" creationdate="20161012T043035Z">
+        <seg>དེའི་རྗེས་虛詞་སྒྲུབ་པའི་所依་དཀོན་མཆོག་གསུམ་ལ་འདོམས་པའི་གདམས་ངག་འཆད་པའི་རྒྱུ་མཚན་ཡོད་彼།</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
         <seg>དྲུག པ མཐོང ཐོབ ལས བྱུང བ ཡིན ཏེ།</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="yenli" changedate="20161012T042732Z" creationid="yenli" creationdate="20161012T042732Z">
