@@ -209,6 +209,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="BO">
+        <seg>མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པ་</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xinfu" changedate="20170414T055529Z" creationid="xinfu" creationdate="20170414T055529Z">
+        <seg>現觀莊嚴論之解釋</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>自動匹配沒問題</note>
       <tuv lang="BO">
         <seg>མཛོད ལས།</seg>
@@ -282,6 +290,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="xingfu" changedate="20161008T172932Z" creationid="xingfu" creationdate="20161008T172932Z">
         <seg>不還超越果者，則安住於從諦現觀十六剎那位乃至</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>འོ་ན་མདོའི་དབང་དུ་བྱས་ན།</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xinfu" changedate="20170414T055654Z" creationid="xinfu" creationdate="20170414T055654Z">
+        <seg>那麼，若約經言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="BO">
+        <seg>ཡུམ་དོན་གསལ་བའི་</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="xinfu" changedate="20170414T055606Z" creationid="xinfu" creationdate="20170414T055606Z">
+        <seg>母義明炬論</seg>
       </tuv>
     </tu>
     <tu>
