@@ -386,8 +386,8 @@
       <tuv lang="BO">
         <seg>藏文分段</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="xingfu" changedate="20161010T043246Z" creationid="xingfu" creationdate="20161010T043246Z">
-        <seg>藏文分段測試</seg>
+      <tuv lang="ZH-TW" changeid="xinfu" changedate="20170414T053747Z" creationid="xingfu" creationdate="20161010T043246Z">
+        <seg></seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
