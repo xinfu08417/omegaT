@@ -1,0 +1,2241 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="LF TMX maker"
+    creationtoolversion="2.23"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="BO"
+    srclang="BO"
+    o-tmf="TW4Win 2.0 Format"
+  >
+  </header>
+  <body>
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟར་ཐེག་ཆེན་གྱི་གདམས་ངག་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如是講說大乘教授與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་རྗེས་སུ་ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་བཤད་ནས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>隨後之大乘加行道後，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་རྗེས་སུ་གདམས་དོན་ཇི་ལྟར་སྒྲུབ་པའི་སྒྲུབ་པ་ཉམས་སུ་ལེན་ཚུལ་དེ་འཆད་ཅིང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>隨之述說「如是修教授義正行」如何修持之理？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་ཐོག་མར་སྒྲུབ་པའི་རྟེན་རིགས་འཆད་པའི་རྒྱུ་མཚན་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，先講述正行所依種性之理由，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་པ་ཆེན་པོར་རིགས་སད་པའི་གང་ཟག་ལ་བཤད་ཟིན་གྱི་ངེས་འབྱེད་ཆ་མཐུན་དང་འཆད་འགྱུར་གྱི་མཐོང་ལམ་སོགས་སྐྱེ་བའི་ཕྱིར་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>乃為令覺醒大乘種性之補特伽羅生起已述之順決擇分與將述之見道等。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྟོང་ཉིད་ལ་དམིགས་པའི་བསྒོམས་བྱུང་གི་སྒྲུབ་པ་ཁྱད་པར་ཅན་དེས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>緣空性的修所成之殊勝正行，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ལ་དམིགས་པ་ན་ནུས་པ་མཐུ་ཅན་དུ་སོང་བའི་རིགས་མི་འཁྲུལ་བ་དེའི་དབང་དུ་བྱས་ནས་དེ་ལྟར་གསུངས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>當緣種性時，以有力功能之不錯亂種性，而如是說。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་རིགས་དང་པོ་ནས་འཆད་རིགས་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>問：然則，先說種性是為應理，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་བསྐྱེད་ཀྱི་སྔ་རོལ་ནས་རིགས་སད་དགོས་པའི་ཕྱིར་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因發心前，種性必覺醒故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྐྱོན་མེད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：無過，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་ཐེག་ཆེན་གྱི་རིགས་སད་ནས་དེའི་རྗེས་སུ་ཐེག་ཆེན་དུ་སེམས་བསྐྱེད་པ་ནི་རྒྱུ་འབྲས་དོན་གྱི་རིམ་པ་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因先覺醒大乘種性，而後發大乘心，乃「理在因果次第」；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་ཆེན་གྱི་ཐར་པ་ཆ་མཐུན་སོགས་རྒྱུད་ལ་སྐྱེས་པ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於相續中生起大乘順解脫分等，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་ཆེན་གྱི་རིགས་ཡོད་པར་རྟོགས་ནུས་པས་འདིར་བསྟན་པ་ནི་བཤད་པའི་རིམ་པ་ཡིན་པའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>能了悟〔其〕有大乘種性，故於此宣說即「講說次第」故，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྲེལ་ཆེན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：《大疏》云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་བསྐྱེད་པ་དང་ཐར་པ་དང་ངེས་པར་འབྱེད་པའི་ཆ་དང་མཐུན་པ་ལ་སོགས་པ་རྣམས་ཀྱི་སྔོན་དུ་འགྲོ་བ་དེ་ཡིན་པས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>發心、解脫與順抉擇分等先前是此故，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་ཁོ་ནར་རིགས་བཤད་པར་བྱ་བ་མ་ཡིན་ནམ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>豈非先說種性？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅིའི་ཕྱིར་འདི་ལྟར་བཤད་ཅེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>何以故作是言耶？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནི་བདེན་མོད་ཀྱི་དེ་ནི་དོན་གྱི་གོ་རིམ་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>沒錯，然彼是『理在次第』，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་ནི་དང་པོ་འབྲས་བུ་བཤད་ནས་རྒྱུ་ཕྱིས་བསྟན་པ་ཡིན་པས་བཤད་པའི་གོ་རིམས་ཡིན་པའི་ཕྱིར་ཉེས་པ་མེད་དོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此即初說果後示因故，是『講說次第』，故無過</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་མདོའི་དབང་དུ་བྱས་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，以經而言：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བཅོམ་ལྡན་འདས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཞེས་བགྱི་བའི་ཚིག་འདིའི་དོན་གང་ལགས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སེམས་བསྐྱེད་སོགས་ཀྱི་སྐབས་སུ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་ཡང་ཡང་གསུངས་པའི་ཚིག་གི་དོན་ཞུས་པའི་ལན་དུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་སྐད་ཅེས་གསོལ་བ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའི་ཚིག་གི་དོན་ནི་ཚིག་གི་དོན་མེད་པ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་ལ་ནི་སྐྱེ་བའམ་ཡོད་པ་ཉིད་དམ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མེད་པ་ཉིད་ཡོད་པའམ་དམིགས་པ་མ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རབ་འབྱོར་དེའི་ཕྱིར་བྱང་ཆུབ་སེམས་དཔའི་ཚིག་གི་དོན་ནི་ཚིག་གི་དོན་མེད་པའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་རིགས་ཀྱི་ངོ་བོ་མདོར་བསྟན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རབ་འབྱོར་འདི་ལྟ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཔེར་ན་ནམ་མཁའ་ལ་བྱའི་རྗེས་མེད་ཅིང་མི་དམིགས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སོགས་ཀྱིས་རིགས་བཅུ་གསུམ་སོ་སོར་ཕྱེ་སྟེ་བཤད།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>等文別說十三種性。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་རྣམས་ཀྱི་དགོངས་པ་བསྟན་བཅོས་སུ་འགྲེལ་བ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>為釋彼等意趣，論云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྟོགས་པ་ཡི་ནི་ཆོས་དྲུག་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>通達有六法⋯⋯</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སོགས་ཤླཽ་ཀ་གཉིས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」等二偈頌。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་འདིར་བསྟན་རིགས་བཅུ་གསུམ་དུ་འཇོག་པའི་རྒྱུ་མཚན་ཅི་ཡིན་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>問：然則，此示種性安立為十三之理由為何？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་རྒྱུ་མཚན་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：其理由即，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདིར་བསྟན་ཐེག་ཆེན་གྱི་སྒྲུབ་པ་བཅུ་གསུམ་དུ་གྲངས་ངེས་པའི་དབང་གིས་རྟེན་རིགས་ལ་བཅུ་གསུམ་དུ་འཇོག་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因為此示大乘正行定數為十三，依其勢力，安立所依種性亦為十三。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདིར་བསྟན་ཐེག་ཆེན་གྱི་སྒྲུབ་པ་དེ་ལ་བཅུ་གསུམ་དུ་གྲངས་ངེས་པ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此示大乘正行定數為十三，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྒྲུབ་པའི་ངོ་བོའི་དབང་དུ་བྱས་ནས་རྟོགས་པའི་ཆོས་དྲུག་ཏུ་ངེས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因以正行體性而言，決定有六證法；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱེད་ལས་ཀྱི་དབང་དུ་བྱས་ནས་གཉེན་པོའི་སྒྲུབ་པ་སྤོང་བའི་སྒྲུབ་པ་དེ་དག་ཡོངས་སུ་གཏུགས་པས་སྒྲུབ་པ་གསུམ་དུ་ངེས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以作用而言，決定有對治正行、能斷正行，及所斷永盡正行三種；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་མཚམས་ཀྱི་དབང་དུ་བྱས་ནས་ཤེས་རབ་སྙིང་བརྩེར་བཅས་པའི་སྒྲུབ་པ་སོགས་བཞིར་ངེས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>依界限決定有俱悲智修行等四種故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>初者成立，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདིར་བསྟན་ཐེག་ཆེན་གྱི་སྦྱོར་ལམ་ཡན་ཆད་ཀྱི་སྒྲུབ་པ་ཡིན་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因為此示大乘加行道以上之正行，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྟོགས་པའི་ཆོས་དྲུག་གང་རུང་ཡིན་དགོས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>定是六證法隨一故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉིས་པ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>次者成立，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་མཐུན་ཕྱོགས་ཀྱི་གཉེན་པོ་བྱེད་པའི་ཆ་ནས་གཉེན་པོའི་སྒྲུབ་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因以作為對治逆品之分而言，決定對治正行、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་མཐུན་ཕྱོགས་སྤོང་བའི་ཆ་ནས་སྤོང་བའི་སྒྲུབ་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以斷除逆品之分決定能斷正行、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་མཐུན་ཕྱོགས་ཟད་པའི་ཆ་ནས་དེ་དག་ཡོངས་སུ་གཏུགས་པའི་རྣམ་གྲོལ་ལམ་གྱི་སྒྲུབ་པ་གསུམ་དུ་ངེས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以滅盡逆品之分決定所斷永盡解脫道正行三種故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གསུམ་པ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>三者成立，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བརྒྱད་པའི་དབང་དུ་བྱས་ནས་ཤེས་རབ་སྙིང་བརྩེར་བཅས་པའི་སྒྲུབ་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因以八地決定慧悲正行；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་དགུ་པའི་དབང་དུ་བྱས་ནས་སློབ་མ་ཐུན་མོང་མ་ཡིན་པའི་སྒྲུབ་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以九地安立不共弟子之正行；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བཅུ་པའི་རྗེས་ཐོབ་ཀྱི་དབང་དུ་བྱས་ནས་གཞན་དོན་གོ་རིམས་སུ་བྱེད་པའི་སྒྲུབ་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以十地後得決定次第利他之正行；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བཅུ་རྒྱུན་མཐའི་དབང་དུ་བྱས་ནས་ཡེ་ཤེས་རྩོལ་བ་མི་མངའ་བར་འཇུག་པའི་སྒྲུབ་པ་རྣམས་སུ་ངེས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以十地後心(續邊)決定智無功用轉正行。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>初者成立，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བརྒྱད་པའི་རྗེས་ཐོབ་ཀྱི་གནས་སྐབས་སུ་བདེན་འཛིན་མངོན་གྱུར་བ་དང་རང་དོན་ཡིད་བྱེད་ཀྱི་བློ་འགོག་ནུས་པའི་ཐབས་ཤེས་ཁྱད་པར་ཅན་ཐོབ་པའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>八地後得位時，獲得能遮止實執現行與自利作意心之殊勝方便智慧故，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྩེ་མོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因《金剛頂經》云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཇི་སྲིད་ས་བརྒྱད་མ་ཐོབ་པ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>乃未證八地，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་སྲིད་ཐེག་པ་དམན་པས་འཇིགས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>當受小乘摧。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས་པའི་ཕྱིར་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」故與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བརྒྱད་པར་སྲིད་ཞི་མཉམ་ཉིད་ཀྱི་སྦྱོར་བ་ཐོབ་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>八地獲得有寂平等性加行故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉིས་པ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>次者成立，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བརྒྱད་པར་ཤེས་རབ་སྙིང་བརྩེར་བཅས་པའི་སྒྲུབ་པ་ཐོབ་པའི་མཐུས་ས་དགུ་པར་ཉན་ཐོས་ལ་སོགས་པ་དང་ཐུན་མོང་མིན་པའི་སྒྲུབ་པ་གསར་དུ་ཐོབ་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於八地得慧悲正行之勢力，於九地新得不共聲聞等修行。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གསུམ་པ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>三者成立，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བཅུ་པའི་རྗེས་ཐོབ་ནས་གཞན་དོན་བྱེད་ཚུལ་སངས་རྒྱས་དང་མཉམ་པ་རྗེས་སུ་མཐུན་པ་ཐོབ་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>自十地後得位，利他方式就能隨順「與佛平等」。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱུད་བླར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《寶性論》云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་འདི་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྗེས་ཐོབ་དེ་བཞིན་གཤེགས་རྣམས་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་ཅན་ཡང་དག་སྒྲོལ་བ་ལ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འཇིག་རྟེན་ན་ནི་མཉམ་པ་ཉིད། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བཞི་པ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>四者成立</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱུན་མཐའི་ཡེ་ཤེས་ཡེ་ཤེས་རྩོལ་བ་མི་མངའ་བར་འཇུག་བཞིན་པའི་སྒྲུབ་པ་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>最後本智是智無功用正轉之修行，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་མཇུག་ཐོགས་དེ་མ་ཐག་ཏུ་ཡེ་ཤེས་རྩོལ་བ་མི་མངའ་བར་འཇུག་པའི་སྒྲུབ་པ་མཐར་ཐུག་འབྱུང་བའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>而其後無間發起後智無功用轉之究竟修行故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>問：作是思惟，然則，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉེན་པོའི་སྒྲུབ་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>對治正行與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྤོང་བའི་སྒྲུབ་པ་གཉིས་ཀྱི་ངོ་བོ་དེ་གང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>能斷正行二者體性為何？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉེན་པོས་སྤང་བྱ་སྤོང་ཚུལ་དེ་ཇི་ལྟ་བུ་སྙམ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>對治如何斷所斷之理？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་མདོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：復如經云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉི་མའི་དཀྱིལ་འཁོར་མངོན་པར་ཤར་བའི་ཚེ་མུན་པའི་གནས་མེད་ཅིང་མི་དམིགས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>日輪升起時，無黑暗處，亦不可得。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>又云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་བཞིན་དུ་བསྐལ་པའི་མེ་འབར་བའི་ཚེ་འདུ་བྱེད་ཀྱི་མཚན་མ་ཐམས་ཅད་ཀྱི་གནས་མེད་ཅིང་མི་དམིགས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如是劫火燃燒時，無一切行之相處，亦不可得。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས་པ་ལྟར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉེན་པོ་དང་ནི་སྤོང་བ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於文中「對治與斷除」，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་པའི་འགྲེལ་པ་འདིར་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《明義釋》又云:</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་འོག་ཏུ་དེ་དག་སྐྱེས་པའི་སྟོབས་ཀྱིས་རྐུན་པོ་ཕྱུང་བ་དང་སྒོ་འཕར་བཅད་པ་ལྟར་དུས་མཉམ་དུ་གཉེན་པོ་དང་མི་མཐུན་པའི་ཕྱོགས་སྐྱེ་བ་དང་འགག་པ་དག་གོ །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>彼後，由彼等生起之勢，猶如驅賊閉戶般，生起對治及斷除逆品於同一時，……」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སོགས་གསུངས་པའི་དགོངས་པ་བཤད་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>當說彼等意趣，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་སྐྱེ་བ་ལ་མངོན་དུ་ཕྱོགས་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>將生起大乘見道無間道與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་ངོ་སྐལ་གྱི་སྤང་བྱར་གྱུར་པའི་མཐོང་སྤངས་ཀྱི་ས་བོན་འགག་པ་ལ་མངོན་དུ་ཕྱོགས་པ་དུས་མཉམ་པའི་ཚུལ་གྱིས་སྤོང་བ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>其所應斷見斷的種子將滅，二者同時，如此而斷，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བར་ཆད་མེད་ལམ་སྐྱེས་ཟིན་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因已生起無間道與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་ངོ་སྐལ་གྱི་སྤངས་བྱར་གྱུར་པའི་མཐོང་སྤངས་ཀྱི་ས་བོན་འགགས་ཟིན་པ་དུས་མཉམ་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>其所應斷見斷之種子已滅，二者同時故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་འདིའི་སྤང་བྱ་སྤོང་ཚུལ་དང་རྒྱུན་མཐའི་བར་ཆད་མེད་ལམ་གྱིས་གནས་ངན་ལེན་གྱི་དྲི་མ་ཕྲ་ཞིང་ཕྲ་བ་སྤོང་བ་ལ་ནི་སྐྱེ་འགྱུར་གྱི་ཚུལ་གྱིས་སྤོང་བ་ཞེས་བྱ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，此斷除所斷之方式與最後心無間道斷除極其細微粗重之垢，名「以將生起之方式斷除」，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བར་ཆད་མེད་ལམ་གཉིས་ཀྱི་དུས་སུ་སྤང་བྱ་གཉིས་མེད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因二無間道時，無二所斷故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཛོད་པ་ལྟར་ན་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若如《俱舍論》：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉེན་པོའི་དུས་སུ་སྤང་བྱ་ཡོད་པར་འདོད་པས་འགག་འགྱུར་གྱི་ཚུལ་གྱིས་སྤོང་བ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>則承許於對治時，有所斷，故是「以將滅之方式斷除」，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཛོད་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《俱舍論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་སློབ་སེམས་ནི་སྐྱེ་འགྱུར་བའི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「無學心生時，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྒྲིབ་པ་ལས་ནི་རྣམ་གྲོལ་འགྱུར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>正從障解脫，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགག་པར་འགྱུར་བའི་ལམ་གྱིས་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>道唯正滅位，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡི་སྒྲིབ་པ་རབ་ཏུ་སྤོང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>能令彼斷障</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་ཀུན་བཏུས་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然則，《大乘阿毘達磨集論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདས་པ་ནི་འགགས་པའི་ཕྱིར་མ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>不從過去已滅故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་འོངས་པ་ནི་མ་སྐྱེས་པའི་ཕྱིར་མ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>不從未來未生故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ད་ལྟར་བ་ནི་ལམ་དང་མཉམ་དུ་མི་འཇུག་པའི་ཕྱིར་མ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>不從現在道不俱故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོན་ཀྱང་གནས་ངན་ལེན་གྱི་རྣམ་པ་གང་ཡིན་པ་དེ་ལས་སྤོང་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然從諸煩惱麁重而得斷為斷。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གནས་ངན་ལེན་གྱི་རྣམ་པ་གང་གིས་གཉེན་པོའི་རྣམ་པ་དེ་འབྱུང་བ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如是如是品麁重生。如是如是品對治，若此品對治生。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གནས་ངན་ལེན་གྱི་རྣམ་པ་དེ་འགག་པ་ནི་མཉམ་པས་མཉམ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>即此品麁重滅。平等平等。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཔེར་ན་སྣང་བ་དང་མུན་པ་འབྱུང་བ་དང་འགག་པ་བཞིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>猶如世間明生暗滅。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་གསུངས་པ་ཡང་མཛོད་པ་ལྟར་ཡིན་ནམ་སྙམ་ན་མ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若思所說之意與《俱舍論》同否？不同。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལུང་དེའི་དོན་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此文義，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་དེས་མཐོང་སྤངས་ཀྱི་ས་བོན་དེ་རང་དུས་ན་འདས་པ་བུམ་པ་ཐོ་བས་བཅོམ་པ་ལྟར་སྤོང་བ་ཡང་མ་ཡིན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>乃大乘見道無間道，斷除見所斷種子，與鐵錘摧壞自時已逝之寶瓶不同，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་དུས་ན་མ་སྐྱེས་པ་མདུན་ནས་ཕུལ་བ་ལྟར་སྤོང་བ་ཡང་མ་ཡིན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>亦不同於自時未生從前方推走，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་དུས་ན་ད་ལྟར་བ་མཛོ་སྦྲེལ་གཡང་ལ་བསྐྱུར་བ་ལྟར་སྤོང་བ་ཡང་མ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་ཅི་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྔར་གཉེན་པོའི་ཕྱོགས་གོམས་པ་ལ་བརྟེན་ནས་ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་སྐྱེ་བ་ལ་མངོན་དུ་ཕྱོགས་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：依昔日串習對治，於大乘見道無間將生起，與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཐོང་སྤང་ཀྱི་ས་བོན་འགག་པ་ལ་མངོན་དུ་ཕྱོགས་པ་དུས་མཉམ་ཞིང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>見所斷種子即將壞滅，二者同時，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་ཆེན་གྱི་མཐོང་ལམ་བར་ཆད་མེད་ལམ་སྐྱེས་པ་དང་མཐོང་སྤངས་ཀྱི་ས་བོན་འགག་པ་དུས་མཉམ་པའི་སྒོ་ནས་མཐོང་སྤངས་ཀྱི་ས་བོན་དངོས་སུ་སྤོང་བ་གཞུང་གི་དོན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>大乘見道無間道已生起與見所斷種子正滅，以二者同時門，直接斷除見所斷種子，乃文義。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་ས་བཅུ་པའི་སྐབས་སུ་གཞན་དོན་བྱེད་ཚུལ་སངས་རྒྱས་དང་མཉམ་པ་རྗེས་སུ་མཐུན་པ་ཐོབ་པ་དེ་གང་གི་དབང་གིས་ཐོབ་པ་ཡིན་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>問：然則，十地時，利他方式隨順「與佛平等」，是由何勢力而致？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་སྐབས་སུ་དགོངས་ལྡེམ་དགོངས་བརྒྱད་ཀྱི་སྒོ་ནས་གདུལ་བྱ་ལ་རང་དབང་དུ་ཆོས་སྟོན་ནུས་པའི་ནུས་པ་ཁྱད་པར་ཅན་ཐོབ་པའི་དབང་གིས་ཡིན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：彼時具足殊勝功德，能以「八意趣密意」門為所化自在說法之勢力所致故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>問：然則，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དགོངས་ལྡེམ་དགོངས་བརྒྱད་པོ་ཇི་ལྟར་ཡིན་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>何謂八意趣密意？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་འཆད་པ་ལ་འགྲེལ་པར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：為釋此，《明義釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་འོག་ཏུ་བསམ་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཞེས་སོགས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་རྟོགས་པ་ལ་དྲང་ངེས་ཀྱི་རྣམ་གཞག་ཤེས་དགོས་པས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>為了悟此，必了知建立了義、不了義，故</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་ཚུལ་བཤད་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>釋彼義，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བློ་གྲོས་མི་ཟད་པས་བསྟན་པའི་མདོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《大寶積經》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ངེས་པའི་དོན་གྱི་མདོ་སྡེ་ནི་གང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དྲང་བའི་དོན་གྱི་མདོ་སྡེ་ནི་གང་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་གང་དག་ཀུན་རྫོབ་སྒྲུབ་པ་བསྟན་པ་དེ་དག་ནི་དྲང་བའི་དོན་ཞེས་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་གང་དག་དོན་དམ་པ་སྒྲུབ་པ་བསྟན་པ་དེ་དག་ནི་ངེས་པའི་དོན་ཞེས་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་གང་དག་ཚིག་དང་ཡི་གེ་སྣ་ཚོགས་པ་བསྟན་པ་དེ་དག་ནི་དྲང་བའི་དོན་ཞེས་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་གང་དག་ཟབ་མོ་བལྟ་དཀའ་བ་རྟོགས་པར་དཀའ་བ་བསྟན་པ་དེ་དག་ནི་ངེས་པའི་དོན་ཞེས་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་གང་དག་བདག་དང་སེམས་ཅན་དང་སྲོག་དང་གསོ་བ་དང་སྐྱེས་བུ་དང་གང་ཟག་དང་ཤེད་ལས་སྐྱེས་དང་ཤེད་བུ་དང་བྱེད་པ་པོ་དང་ཚོར་བ་པོ་སྐད་སྣ་ཚོགས་ཀྱིས་བཤད་པར་བྱ་བ་བདག་པོ་མེད་པ་ལ་བདག་པོ་ལྟ་བུར་བསྟན་པ་དེ་དག་ནི་དྲང་བའི་དོན་ཞེས་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་གང་དག་དངོས་པོ་སྟོང་པ་ཉིད་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཚན་མ་མེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྨོན་པ་མེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མངོན་པར་འདུ་བྱེད་པ་མེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྐྱེ་བ་མེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་སྐྱེས་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་ཅན་མེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྲོག་མེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གང་ཟག་མེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བདག་པོ་མེད་པ་རྣམ་པར་ཐར་པའི་སྒོ་སྟོན་པ་དེ་དག་ནི་ངེས་པའི་དོན་ཞེས་བྱ་སྟེ་འདི་ནི་ངེས་པའི་དོན་གྱི་མདོ་སྡེ་ལ་རྟོན་གྱི་དྲང་བའི་དོན་གྱི་མདོ་སྡེ་ལ་མི་རྟོན་པ་ཞེས་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཏིང་འཛིན་རྒྱལ་པོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྟོང་པ་བདེ་བར་གཤེགས་པས་བཤད་པ་ལྟར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ངེས་དོན་མདོ་སྡེ་དག་གི་བྱེ་བྲག་ཤེས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གང་ལས་སེམས་ཅན་གང་ཟག་སྐྱེས་བུར་བསྟན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆོས་དེ་ཐམས་ཅད་དྲང་བའི་དོན་དུ་ཤེས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་རྣམས་ཀྱི་དགོངས་པ་འགྲེལ་བ་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>為釋彼等意趣，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དབུ་མ་སྣང་བར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《中觀光明論》云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ངེས་པའི་དོན་ཡང་གང་ལ་བྱ་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>何等名為了義？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཚད་མ་དང་བཅས་པ་དང་དོན་དམ་པའི་དབང་དུ་མཛད་ནས་བཤད་པ་གང་ཡིན་པ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>謂有正量，依於勝義增上而說，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནི་དེ་ལས་ལོགས་ཤིག་ཏུ་གཞན་གྱིས་གང་དུ་ཡང་དྲང་བར་མི་ནུས་པའི་ཕྱིར་རོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此義除此餘人不能向餘引故。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལུང་དེ་རྣམས་ཀྱི་དོན་བཤད་དུ་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>當說彼等文義，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དོན་དམ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའི་སྒྲ་ཇི་བཞིན་པའི་མདོ་ངེས་དོན་གྱི་མདོའི་ངོ་བོ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此即以勝義諦為親示主詮之依文經，即了義經之體性；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཀུན་རྫོབ་བདེན་པ་དངོས་བསྟན་བསྟན་བྱའི་གཙོ་བོར་བྱས་ནས་སྟོན་པའམ་སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་མི་རུང་བ་གང་རུང་གི་མདོ་དེ་དྲང་དོན་གྱི་མདོའི་ངོ་བོ་ཡིན་ཞེས་པའི་དོན་ཡིན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以世俗諦為親示主詮之經或不可依文主張之經隨一，即所謂「不了義經」。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དྲང་དོན་གྱི་མདོ་དེ་ལ་དབྱེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>不了義經可分為：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྒྲ་ཇི་བཞིན་དུ་ཁས་བླང་དུ་རུང་བའི་མདོ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>可依文主張之經與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་རུང་བའི་མདོ་གཉིས་ཡོད།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>不可依文主張之經二種，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>初者</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཔེར་ན་འདུས་བྱས་མི་རྟག་པར་སྟོན་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：演說有為法是無常之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕྱི་མ་ལ་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>後者亦有：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དགོངས་གཞི་གཙོ་བོར་སྟོན་པའི་དགོངས་པ་ཅན་གྱི་མདོ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>主示意趣處之意趣經與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དགོངས་པ་གཙོ་བོར་སྟོན་པའི་ལྡེམ་དགོངས་ཀྱི་མདོ་གཉིས་ཡོད།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>主示意趣之密意經二種。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་ལ་བཞི་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>初者有四：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《大乘莊嚴經論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཉམ་པ་ཉིད་དང་དོན་གཞན་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「平等及別義，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་བཞིན་དུ་ནི་དུས་གཞན་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>別時及別欲，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གང་ཟག་གི་ནི་བསམ་པ་ལ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>依此四種意，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དགོངས་པ་རྣམ་པ་བཞིར་ཤེས་བྱ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>依此四種意。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་དང་པོ་མཉམ་པ་ཉིད་ལ་དགོངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此中第一慮及平等者，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བདག་ཅག་གི་སྟོན་པས་མཉམ་པ་ཉིད་གསུམ་ལ་དགོངས་ནས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>譬如：吾等導師慮及三平等而說：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ང་ཉིད་དེའི་ཚེ་དེའི་དུས་ན་སངས་རྒྱས་རྣམ་གཟིགས་སུ་གྱུར་ཏོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「我於彼生彼時是毗婆尸佛。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་པའི་མདོ་ལྟ་བུའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟར་གསུངས་པའི་རྒྱུ་མཚན་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如此宣說的理由，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བདག་ཅག་གི་སྟོན་པ་དང་རྣམ་གཟིགས་གཉིས་རྒྱུ་ཚོགས་གཉིས་རྫོགས་པར་མཉམ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>即吾等導師與毗婆尸佛二者，圓滿二資糧因相等、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འབྲས་བུ་ཆོས་སྐུ་བརྙེས་པར་མཉམ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>獲證法身果相等、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱེད་ལས་སེམས་ཅན་གྱི་དོན་བྱེད་པར་མཉམ་པའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>利益有情之作用相等故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཛོད་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因《俱舍論》說：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སངས་རྒྱས་ཐམས་ཅད་ཚོགས་དང་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「由資糧法身，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆོས་སྐུ་འགྲོ་བའི་དོན་སྤྱོད་པས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>利他佛相似。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཉམ་པ་ཉིད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་དང་སྐུ་ཚེ་དང་སྐུ་ཚད་སོགས་ཀྱང་མཉམ་མམ་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然則，種性、壽命與身量等相等否？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>否，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྐུ་ཚེ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་དང་སྐུ་བོང་ཚོད་ཀྱིས་མིན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「壽種性量等，諸佛有差別。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉིས་པ་དོན་གཞན་ལ་དགོངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>第二慮及別義者，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕ་དང་མ་ནི་བསད་བྱ་ཞིང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如「父與母應殺，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱལ་པོ་གཙང་སྦྲ་ཅན་གཉིས་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若毀王二淨，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡུལ་འཁོར་འཁོར་དང་བཅས་བཅོམ་ན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>國土與眷屬，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་དེ་དག་པ་ཉིད་དུ་འགྱུར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>彼人成清淨」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་གསུངས་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དོན་གཞན་ལ་དགོངས་ལུགས་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>慮及別義之理：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕ་མ་གཉིས་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「父母」二者</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྟེན་འབྲེལ་ཡན་ལག་བཅུ་གཉིས་ཀྱི་ནང་ཚན་དུ་གྱུར་པའི་འདུ་བྱེད་དང་སྲིད་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>指十二支緣起中的行與有；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱལ་པོ་ནི་དེའི་ནང་ཚན་དུ་གྱུར་པའི་རྣམ་ཤེས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「王」乃其中之識；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཙང་སྦྲ་ཅན་གཉིས་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「二淨」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལྟ་བ་མཆོག་འཛིན་དང་ཚུལ་ཁྲིམས་བརྟུལ་ཞུགས་མཆོག་འཛིན་གཉིས་ཡུལ་འཁོར་ནི་འཁོར་བས་བསྡུས་པའི་མིག་སོགས་སྐྱེ་མཆེད་དྲུག</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>即戒取見與戒禁取見者；「國土」是輪迴所攝眼等六處。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འཁོར་བཅས་ནི་འཁོར་བས་བསྡུས་པའི་ཕྱིའི་སྐྱེ་མཆེད་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「眷屬」是輪迴所攝外處，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་དག་གཉེན་པོའི་སྟོབས་ཀྱིས་བཅོམ་ན་དེ་འདྲའི་མི་དེས་དག་པ་བྱང་ཆུབ་ཐོབ་ཅེས་པའི་དོན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若由彼等對治力斷除，此人則獲得清淨菩提。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དུས་གཞན་ལ་དགོངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>慮及別時，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་འོངས་པ་ན་བདེ་བ་ཅན་དུ་སྐྱེ་བ་ཡོད་པ་ལ་དགོངས་ནས་བདེ་བ་ཅན་དུ་སྐྱེ་བའི་སྨོན་ལམ་བཏབ་ན་དེ་མ་ཐག་བདེ་བ་ཅན་དུ་སྐྱེ་བར་གསུངས་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：慮及未來可往生極樂，而說「僅發願往生極樂，將立即往生極樂」之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གང་ཟག་གི་བསམ་པ་ལ་དགོངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>慮及補特伽羅意樂，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྦྱིན་པ་ཙམ་གྱིས་ཆོག་པར་འཛིན་པའི་གདུལ་བྱའི་ངོར་དེ་སྨད་ནས་ཚུལ་ཁྲིམས་མཆོག་ཏུ་སྟོན་པའི་མདོ་ལྟ་བུའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：對僅以布施為滿足之所化，輕蔑此而說戒殊勝之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉིས་པ་ལྡེམ་དགོངས་ཀྱི་མདོ་ལའང་བཞིར་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>第二祕密意經亦有四，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《大乘莊嚴經論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཞུག་པ་ལྡེམ་པོར་དགོངས་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「所謂令入節，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཚན་ཉིད་ལྡེམ་པོར་དགོངས་པ་གཞན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>相節對治節，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉེན་པོ་ལྡེམ་པོར་དགོངས་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བསྒྱུར་བ་ལྡེམ་པོར་དགོངས་པ་སྟེ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>及以祕密節，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལྡེམ་པོར་དགོངས་པ་འདི་རྣམ་བཞི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>是名為四節。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་དང་པོ་གཞུག་པ་ལ་ལྡེམ་པོར་དགོངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，第一令入祕密意，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕྱི་རོལ་པའི་ལྟ་བ་ལ་གོམས་པའི་གདུལ་བྱ་འགའ་ཞིག་བསྟན་པ་ལ་གཞུག་པའི་དོན་དུ་གང་ཟག་གི་བདག་ཡོད་པར་སྟོན་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>即為令諳於外道見之些許所化入佛門，故宣說有補特伽羅我經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཚན་ཉིད་ལ་ལྡེམ་པོར་དགོངས་པ་ནི་མཚན་ཉིད་གསུམ་ལ་བདེན་པར་གྲུབ་མ་གྲུབ་སོ་སོར་ཕྱེ་ནས་སྟོན་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>相祕密意，如：各別宣說三性是否真實成立之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉེན་པོ་ལ་ལྡེམ་པོར་དགོངས་པ་ལ་བརྒྱད་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>對治祕密意有八：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཉིད་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《大乘莊嚴經論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སངས་རྒྱས་ཆོས་ལ་བརྙས་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「輕佛及輕法，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལེ་ལོ་ཅུང་ཟད་ཆོག་འཛིན་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>懈怠少知足，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ང་རྒྱལ་འདོད་ཆགས་སྤྱོད་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>貪行及慢行，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྱོད་དང་མ་ངེས་ལྡོག་པ་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>悔行不定等，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་ཅན་རྣམས་ཀྱི་སྒྲིབ་པ་སྟེ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如是八種障，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡི་གཉེན་པོར་ཐེག་མཆོག་གསུམ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>大乘說對治。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་སངས་རྒྱས་ལ་བརྙས་པའི་གཉེན་པོར་གསུངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，宣說輕蔑佛之對治，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཉམ་པ་ཉིད་ཀྱི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如平等性經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆོས་ལ་བརྙས་པའི་གཉེན་པོར་གསུངས་པ་ནི་གྲངས་མེད་པའི་སངས་རྒྱས་ལ་བསྙེན་བཀུར་བྱས་ན་གཟོད་ཐེག་ཆེན་གྱི་ཆོས་ཐོབ་པར་འགྱུར་རོ་ཞེས་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>宣說輕蔑法之對治，如：說倘若承事無量佛，遂得大乘法之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལེ་ལོའི་ཉེས་པའི་གཉེན་པོར་གསུངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>宣說懈怠之對治，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དུས་གཞན་ལ་དགོངས་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：慮及別時之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅུང་ཟད་ཆོག་འཛིན་གྱི་གཉེན་པོར་གསུངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>宣說少知足之對治，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གང་ཟག་གི་བསམ་པ་ལ་དགོངས་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：慮及補特伽羅意樂之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ང་རྒྱལ་ལྷག་པར་སྤྱོད་པའི་ཉེས་པའི་གཉེན་པོར་གསུངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>宣說增上我慢之對治，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་སྒྲོ་བཏགས་ནས་བརྗོད་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：增益宣說佛土功德之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདོད་ཆགས་ལྷག་པར་སྤྱོད་པའི་ཉེས་པའི་གཉེན་པོར་གསུངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>宣說增上貪欲之對治，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སངས་རྒྱས་ཀྱི་སྐུའི་ཡོན་ཏན་སྒྲོ་བཏགས་ནས་གསུངས་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：增益宣說佛身功德之經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྱོད་པའི་ཉེས་པའི་གཉེན་པོར་གསུངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>宣說後悔過患之對治，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་སྐྱེས་དགྲའི་འགྱོད་པ་བསལ་བའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：《佛說阿闍世王經》</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་མ་ངེས་པ་ལྡོག་པའི་ཉེས་པའི་གཉེན་པོར་གསུངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཐར་ཐུག་ཐེག་པ་གསུམ་དུ་སྟོན་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如：宣說究竟三乘經。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བཞི་པ་བསྒྱུར་བ་ལ་ལྡེམ་པོར་དགོངས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>第四祕密節，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རབ་ཏུ་གྲགས་པའི་ཡི་གེ་ངན་པ་མ་གྲགས་པའི་དོན་ཟབ་མོ་སྟོན་བྱེད་དུ་བསྒྱུར་བ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>將普稱之惡字轉變成詮說不普稱之深義。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྙིང་པོ་མེད་ལ་སྙིང་པོ་ཤེས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如經言：「覺不堅為堅，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕྱིན་ཅི་ལོག་ལ་ལེགས་པར་གནས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>善住於顛倒，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉོན་མོངས་པས་ནི་རབ་ཉོན་མོངས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>極煩惱所惱，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་དམ་པ་ཐོབ་པར་འགྱུར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>得最上菩提。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་པའི་མདོ་ལྟ་བུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་སྙིང་པོ་ནི་རྣམ་གཡེང་དང་ཚུལ་འཆལ་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，「堅」指散亂與犯戒，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་གཉིས་མེད་པའི་ལྷག་པ་ཏིང་ངེ་འཛིན་དང་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པ་གཉིས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>無此二之「增上定」與「增上戒」二者，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཙང་བདེ་རྟག་བདག་ཏུ་འཛིན་པ་ལས་ཕྱིན་ཅི་ལོག་པ་མི་རྟག་སོགས་རྟོགས་པའི་ཤེས་རབ་ཀྱི་བསླབ་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以及執常、樂、我、淨顛倒之通達無常等「增上慧」學。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཞན་དོན་དཀའ་སྤྱད་ཀྱི་ཉོན་མོངས་པ་ནི་བསོད་ནམས་ཀྱི་ཚོགས་ཆེན་པོ་ལ་འབད་པ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>利他苦行的煩惱，即精勤於廣大福德資糧，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟར་ཚོགས་གཉིས་ལ་འབད་པས་མྱུར་དུ་བྱང་ཆུབ་ཐོབ་པར་བསྟན་པའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>說如此精勤二資糧，速證菩提。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟར་རྟོགས་པ་ཡི་ནི་ཆོས་དྲུག་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>問：如是「通達有六法……」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སོགས་ཀྱི་སྐབས་སུ་བྱང་སེམས་བཅུ་གསུམ་གྱི་རྒྱུད་ཀྱི་སེམས་བདེན་སྟོང་ཐེག་ཆེན་སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས་སུ་བསྟན་པ་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>等文時，示十三菩薩相續之心真實空，是大乘修行所依自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གནས་རིགས་འདུས་བྱས་སུ་འདོད་པའི་སེམས་ཙམ་པ་རྣམས་ན་རེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>對此，承許自性住種性是有為法之唯識師駁說：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཅན་གསུམ་ཀའི་གང་ཟག་ཐེག་པ་ཆེན་པོའི་ལམ་གྱི་སྐབས་ཀྱི་རིགས་ལ་གནས་པར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「三種性補特伽羅理應住於大乘道時之種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་སེམས་བཅུ་གསུམ་གྱི་རྒྱུད་ཀྱི་སེམས་བདེན་སྟོང་སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས་གང་ཞིག</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因十三菩薩相續之心真實空是修行所依—自性住種性，且</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་རིགས་ཅན་གསུམ་ཀའི་གང་ཟག་ལ་སྤྱིར་གནས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>彼通住於三種性補特伽羅故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདོད་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若許，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་སེམས་དཔའ་ཁོ་ན་ཐེག་ཆེན་གྱི་ལམ་གྱི་སྐབས་ཀྱི་རིགས་ལ་གནས་པ་མ་ཡིན་པར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>則理應非僅是菩薩住於大乘道時之種性？」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གལ་ཏེ་ཆོས་ཀྱི་དབྱིངས་རིགས་ཉིད་ཡིན་ན་ཐམས་ཅད་རིགས་ལ་གནས་པར་འགྱུར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「若法界是種性，則成一切皆住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནི་སྤྱིར་གནས་པ་ཡིན་པའི་ཕྱིར་རོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因彼通住故。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེ་ན་ཞེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>又，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྲེལ་ཆེན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《大疏》說：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་ཚེ་ཆོས་ཀྱི་དབྱིངས་ནི་སྤྱིར་གནས་པ་ཡིན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「爾時法界通住故……」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སོགས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>等；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྲེལ་པ་འདིར་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《明義釋》復說：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་ནི་དེའི་ཚེ་དེ་ནི་སྤྱིར་གནས་པ་ཡིན་པས་བྱང་ཆུབ་སེམས་དཔའ་ཁོ་ན་མ་ཡིན་ནོ་སྙམ་པའི་སྐྱེ་བོ་བློ་དམན་པའི་ངོར་དོགས་པ་བསུ་ནས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「然則，爾時彼通住，故思惟非唯是菩薩，〔如此〕對劣慧士夫挑起發問。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལན་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐལ་འགྱུར་དང་པོ་ལ་མ་ཁྱབ་པར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>第一應成理應不周遍，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་སེམས་བཅུ་གསུམ་གྱི་རྒྱུད་ཀྱི་སེམས་བདེན་སྟོང་ཐེག་ཆེན་སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因十三菩薩相續之心真實空，是大乘修行所依自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཅན་གསུམ་གྱི་གང་ཟག་ལ་སྤྱིར་གནས་ཀྱང་ཉན་ཐོས་སློབ་པའི་སེམས་བདེན་སྟོང་ཉན་ཐོས་སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>雖共住於十三種性補特伽羅，但有學聲聞之心真實空是聲聞修行所依自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་རྒྱལ་སློབ་པའི་སེམས་བདེན་སྟོང་རང་རྒྱལ་སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>有學緣覺之心真實空是緣覺修行所依自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་སེམས་ཀྱི་སེམས་བདེན་སྟོང་བྱང་སེམས་སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས་སུ་འཐད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>菩薩之心真實空是菩薩修行所依自性住種性，【此】是應理故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་སྒྲུབ་པ་ནི་ཉན་ཐོས་སློབ་པའི་སེམས་བདེན་སྟོང་ཆོས་ཅན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>為證成此，有學聲聞之心真實空為有法，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉན་ཐོས་སྒྲུབ་པའི་རྟེན་རང་བཞིན་གནས་རིགས་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>是聲聞修行所依自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉན་ཐོས་སློབ་པའི་སེམས་ཀྱི་ཆོས་དབྱིངས་གང་ཞིག ཉན་ཐོས་སྒྲུབ་པའི་རྟེན་གཞི་བྱེད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因是有學聲聞之心的法界，又是聲聞正行之所依基礎故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོག་མ་གཉིས་ལའང་དེ་བཞིན་སྦྱར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>後二者亦如此結合。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟར་ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཇི་ལྟར་དམིགས་པ་ན་འཕགས་པའི་ཆོས་རྣམས་ཀྱི་རྒྱུར་འགྱུར་བ་དེ་ལྟར་རིགས་ཡིན་པར་བརྗོད་པ་དེས་ན་འདིར་ཧ་ཅང་ཐལ་བ་ཅི་སྟེ་ཚོལ་བར་བྱེད།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「如是緣【自法性】時，成諸聖法之因，而說是種性，是故為何於此以過份應成破斥。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྲེལ་པ་འདིར་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《明義釋》亦云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཇི་ལྟར་ཉན་ཐོས་ཀྱི་ཐེག་པ་ལ་སོགས་པའི་རྟོགས་པའི་རིམ་གྱིས་དམིགས་པ་དེ་བཞིན་དུ་འཕགས་པའི་ཆོས་རྟོགས་པར་བྱ་བའི་ཕྱིར་ཆོས་ཀྱི་དབྱིངས་རྒྱུའི་ངོ་བོར་རྣམ་པར་འཇོག་པའི་སྒོ་ནས་རིགས་ཉིད་དུ་ཐ་སྙད་འདོགས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「聲聞乘等證量次第而緣，如是為證聖法，以安立法界因性之門，取名為種性。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་དག་ནི་དོན་གྱིས་ཐོབ་པའི་རྩོད་ལན་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>彼等是理在辯論之答。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྩ་ཚིག་གིས་ཟིན་པའི་དབང་དུ་བྱས་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若就本文字面上而言，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཁོ་ན་རེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>有駁云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གནས་རིགས་ལ་འདི་ནི་ཉན་ཐོས་ཀྱི་རང་བཞིན་གནས་རིགས་འདི་ནི་རང་རྒྱལ་གྱི་རང་བཞིན་གནས་རིགས་འདི་ནི་ཐེག་ཆེན་གྱི་རང་བཞིན་གནས་རིགས་ཅེས་གསུམ་གྱི་དབྱེ་བ་མི་འཐད་པར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「於〔一〕自性住種性，謂此乃聲聞自性住種性、此即緣覺自性住種性、此是大乘自性住種性，如是分類為三種，不應理，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དྲི་མ་མ་སྤངས་པའི་སེམས་ཀྱི་ཆོས་དབྱིངས་རང་བཞིན་གནས་རིགས་གང་ཞིག ཆོས་དབྱིངས་ལ་ངོ་བོ་མི་འདྲ་བའི་དབྱེ་བ་མི་འཐད་པའི་ཕྱིར་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因未斷垢染之心之法界是自性住種性，且法界有不同體性之分類不應理故。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་རྩ་བར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，如根本頌言：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆོས་ཀྱི་དབྱིངས་ལ་དབྱེར་མེད་ཕྱིར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>法界無差別，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ནི་ཐ་དད་རུང་མ་ཡིན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>種性不應異。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」 </seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟ་ནའང་ཆོས་ཀྱི་དབྱིངས་ལ་དབྱེར་མེད་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「雖如此，然法界無別故，言</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་ནི་ཉན་ཐོས་ཀྱི་རིགས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>『此乃聲聞種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་ནི་རང་སངས་རྒྱས་ཀྱི་རིགས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此即緣覺種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་ནི་སངས་རྒྱས་ཀྱི་རིགས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此是佛種性。』</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་རིགས་ནི་ཐ་དད་རུང་མ་ཡིན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>種性不應為異。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཇི་སྐད་དུ་འཇམ་དཔལ་གལ་ཏེ་ཆོས་ཀྱི་དབྱིངས་གཅིག་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如云：『文殊，若一法界、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་བཞིན་ཉིད་གཅིག་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>一真如、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡང་དག་པའི་མཐའ་གཅིག་ཡིན་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>一真實際，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་ཇི་ལྟར་སྣོད་དང་སྣོད་མིན་པར་གདགས་ཞེས་གསུངས་པ་བཞིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於此豈能假立器與非器。』</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལན་ནི་རྩ་བའི་ཐལ་འགྱུར་ལ་ཁྱབ་པ་མེད་པར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：根本應成理應不周遍，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྟེན་ཆོས་སྒྲུབ་པ་གསུམ་གྱི་དབྱེ་བས་རྟེན་རིགས་གསུམ་གྱི་དབྱེ་བ་འཐད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因由所依法修行之三種分類，〔安立〕能依三種種性分類是為應理故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཔེར་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བུམ་པ་གཅིག་ཡིན་ཡང་རང་གི་ནང་དུ་སྦྲང་རྩི་དང་བུ་རམ་དང་ལི་ཁར་རྣམས་རིམས་ཀྱིས་བླུག་པའི་ཚེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>雖是一瓶，然把蜂蜜、蔗糖及白糖等依序注入時，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་གི་ནང་ན་སྦྲང་རྩི་ཡོད་པའི་བུམ་པ་དེ་ལ་སྦྲང་རྩིའི་བུམ་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>內有蜂蜜之瓶，稱作蜂蜜瓶；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་གི་ནང་ན་བུ་རམ་ཡོད་པའི་བུམ་པ་དེ་ལ་བུ་རམ་གྱི་བུམ་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>內有蔗糖之瓶，稱作蔗糖瓶；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་གི་ནང་ན་ལི་ཁར་ཡོད་པའི་བུམ་པ་དེ་ལ་ལི་ཁ་རའི་བུམ་པ་ཞེས་བརྗོད་པ་བཞིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>內有白糖之瓶，稱作白糖瓶。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཔེ་དོན་སྦྱོར་ཚུལ་ཡང་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>法喻結合之理：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཔེ་སྔ་མ་དེ་བཞིན་དུ་དྲི་བཅས་སེམས་ཀྱི་ཆོས་དབྱིངས་དེ་གཅིག་ཡིན་ཡང་དེ་ལ་རྟེན་ཆོས་སྒྲུབ་པའམ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>即如前喻，有垢心之法界雖是一，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་པ་གསུམ་གྱིས་དམིགས་པའི་ཚེ་ཉན་ཐོས་ཀྱི་དྲི་བཅས་སེམས་ཀྱི་ཆོས་དབྱིངས་ཉན་ཐོས་ཀྱི་རང་བཞིན་གནས་རིགས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然因(其)能依法修行或三乘緣彼時，聲聞有垢心之法界成為聲聞自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་རྒྱལ་གྱི་དྲི་བཅས་སེམས་ཀྱི་ཆོས་དབྱིངས་རང་རྒྱལ་གྱི་རང་བཞིན་གནས་རིགས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>緣覺有垢心之法界成為緣覺自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་སེམས་ཀྱི་དྲི་བཅས་སེམས་ཀྱི་ཆོས་དབྱིངས་བྱང་སེམས་ཀྱི་རང་བཞིན་གནས་རིགས་སུ་འགྱུར་བའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>菩薩有垢心之法界成為菩薩自性住種性故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་རྩ་བར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，如根本頌云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྟེན་པའི་ཆོས་ཀྱི་བྱེ་བྲག་གིས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「由能依法異，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡི་དབྱེ་བ་ཡོངས་སུ་བརྗོད།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>故說彼差別。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྲེལ་པར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཔེར་ན་འཇིམ་པ་གཅིག་ལས་མངོན་པར་གྲུབ་ཅིང་མེ་ལྕེ་གཅིག་གིས་སོ་བཏང་བའི་རྟེན་བུམ་པ་ལ་སོགས་པ་རྟེན་པ་སྦྲང་རྩི་དང་ལི་ཁར་ལ་སོགས་པའི་སྣོད་ཉིད་ཀྱིས་ཐ་དད་པ་དེ་བཞིན་དུ་རྟེན་པའི་ཆོས་ཐེག་པ་གསུམ་གྱིས་བསྡུས་པ་རྟོགས་པར་བྱ་བ་ཐ་དད་པ་ཉིད་ཀྱིས་རྟེན་ཐ་དད་པ་ཉིད་དོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「如言：『譬如，由同泥所塑，又由同火鍊成所依之瓶等，以能依蜜、糖等器之差別，同理，因能依法三乘攝持，所證有別，故所依異矣。』</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་བསྟན་ཏོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟར་དམིགས་བྱེད་ཉན་རང་གི་ཐེག་པ་གཉིས་ཀྱིས་ཉན་རང་གི་རང་བཞིན་གནས་རིགས་ལ་དམིགས་པར་གསུངས་པ་ཉིད་ཀྱིས་ཉན་རང་ལ་ཆོས་ཀྱི་བདག་མེད་རྟོགས་པ་ཡོད་པར་བསྟན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如是，因由宣說能緣之聲、緣二乘，緣聲、緣自性住種性，表聲、緣有證悟法無我，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如經云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འཕགས་པའི་གང་ཟག་ཐམས་ཅད་ནི་འདུས་མ་བྱས་ཀྱིས་རབ་ཏུ་ཕྱེ་བ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「一切聖者補特伽羅，皆是無為之所顯。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་པས་བསྟན་པ་འགྲེལ་པ་གསུམ་གྱི་དགོངས་པའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此所示即三釋論之意趣</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་དག་ལ་དཔགས་ནས་དེང་སང་གི་དུས་སུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此等可推知，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྤྱིར་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་མཐར་ཐུག་པའི་དགོངས་པ་ཐལ་རང་གང་དུ་གནས་དཔྱོད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>現今，一般探析《現觀莊嚴論》究竟意趣為自續應成何派，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཁྱད་པར་འདིའི་སྐབས་ཀྱི་གཞུང་རྣམས་ཐལ་རང་གང་གི་གཞུང་ཡིན་དཔྱོད་པ་ནི་བདག་ཉིད་ངལ་བར་བྱེད་པ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>尤其探析此時之引文，屬於自續、應成何派引文，乃徒勞自苦，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐལ་རང་སོ་སོའི་གྲུབ་མཐའི་དབང་གིས་རང་རང་གི་ཕྱོགས་སུ་འདོད་པའི་ཕྱིར་རོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因以自續應成各別宗義之由，承許各自方故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྐབས་འདིར་མཐའ་དཔྱད་པ་ལ་བཞི་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>今此辨析有四：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉན་ཐོས་སྡེ་པའི་ལུགས་བཤད་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡述聲聞部派、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་ཙམ་པའི་ལུགས་བཤད་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡述唯識派、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་ཉི་སྣང་དུ་འཕགས་པས་དགག་པ་མཛད་ཚུལ་བཤད་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於此《二萬頌光明釋》中聖者如何破斥之理、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དབུ་མ་པ་རང་གི་ལུགས་བཤད་པ་རྣམས་སུ་ཡོད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡述中觀自宗。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡述聲聞部派：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>經云</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆོས་གོས་དང་གནས་མལ་དང་བསོད་སྙོམས་ངན་ངོན་ཙམ་གྱིས་ཆོག་ཤེས་པ་འཕགས་པའི་རིགས་ཞེས་པ་གསུམ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於簡陋法衣、臥具、乞食知足，謂三聖種；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྤོང་བ་དང་སྒོམ་པ་ལ་མངོན་པར་དགའ་བ་འཕགས་པའི་རིགས་ཞེས་པ་གཅིག་སྟེ་བཞི་གསུངས་ཤིང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>喜愛於斷除與修行，謂一聖種，共四種。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་གསུམ་གྱིས་བདག་གི་བའི་དངོས་པོ་ལ་སྲེད་པ་རེ་ཞིག་འགོག་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>前三者表暫息貪愛我所有物以及</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལམ་བསྒོམ་ཚུལ་བསྟན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>修道之理，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕྱི་མས་ལམ་སྒོམ་པ་དངོས་དང་བདག་དང་བདག་གི་བའི་དངོས་པོ་ལ་སྲེད་པ་གཏན་ནས་འགོག་པའི་ཚུལ་དེ་བསྟན་པའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>後者，表正修道與如何永除貪愛我及我所有物之理，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཛོད་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《俱舍論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་ཆགས་འཕགས་རིགས་དེ་དག་ལས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「三生具後業，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གསུམ་གྱིས་ཚུལ་བསྟན་ཐ་མས་ལས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>為治四愛生，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བདག་གིར་བདག་འཛིན་དངོས་འདོད་པ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>我所我事欲，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡི་དུས་དང་གཏན་ཞིའི་ཕྱིར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>暫息永除故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བཞི་པོ་དེ་དག་ལ་འཕགས་པའི་རིགས་ཞེས་བརྗོད་པའི་རྒྱུ་མཚན་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此四者稱聖種之理由即，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་རྣམས་ལ་བརྟེན་ནས་འཕགས་པ་རྣམས་སྐྱེད་པར་བྱེད་པས་དེ་སྐད་བརྗོད་པའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>依此等能生諸聖者故如是稱，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མཛོད་འགྲེལ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《俱舍論釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅིའི་ཕྱིར་འཕགས་པའི་རིགས་ཞེས་བྱ་ཅེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「何以故名種性？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་དག་ལས་འཕགས་པ་རྣམས་སྐྱེད་པས་འཕགས་པའི་རིགས་བཞི་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>謂仗此等能生諸聖者，故四聖種。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉིས་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡述唯識派：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆོས་མངོན་པའི་མདོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>以《對法經》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་རིགས་དེ་ནི་ཐོག་མ་མེད་པ་ནས་བརྒྱུད་དེ་འོངས་པ་ཆོས་ཉིད་ཀྱིས་ཐོབ་པ་སྐྱེ་མཆེད་དྲུག་གི་ཁྱད་པར་གང་ཡིན་པ་སྟེ་ཞེས་པའི་དོན་དུ་མཛད་ནས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「諸菩薩種性，從無始展轉而來，法爾所得，是為六處差別」而為依據，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཀུན་གཞི་ཁས་ལེན་པའི་སེམས་ཙམ་པས་ནི་ཀུན་གཞིའི་སྟེང་གི་ཟག་མེད་ཡེ་ཤེས་ཀྱི་ས་བོན་ཐོས་པའི་རྐྱེན་གྱིས་གསོས་མ་བཏབ་པའི་ཚེ་ན་རང་བཞིན་གནས་རིགས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>主張阿賴耶之唯識師承許：阿賴耶上無漏本智種子，未經聽聞【因】緣滋潤時，是自性住種性；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཐོས་པའི་རྐྱེན་གྱིས་གསོས་བཏབ་པས་ཁྱད་པར་དུ་གྱུར་པ་རྒྱས་འགྱུར་གྱི་རིགས་སུ་འདོད་དོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཀུན་གཞི་ཁས་མི་ལེན་པའི་སེམས་ཙམ་པས་ནི་ནང་གི་སྐྱེ་མཆེད་དྲུག་གི་སྟེང་ན་ཡོད་པའི་ཟག་མེད་ཡེ་ཤེས་ཀྱི་ས་བོན་རྐྱེན་དང་འཕྲད་ན་ཐེག་པ་གསུམ་པོ་གང་རུང་གི་རྟོགས་པ་སྐྱེ་རུང་གི་ནུས་པ་དེ་རང་བཞིན་གནས་རིགས་སུ་འདོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>不承許阿賴耶之唯識師則承許：內六處上無漏本智種子，若與緣相遇， 堪能生起三乘隨一證量之能力，是自性住種性。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg></seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《菩薩地》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་རིགས་དེ་ནི་མདོར་བསྡུ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「云何種姓。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྣམ་པ་གཉིས་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>謂略有二種。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གྱིས་གནས་པ་དང་ཡང་དག་པར་སྒྲུབ་པའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>一本性住種姓。二習所成種姓。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་རང་བཞིན་གྱིས་གནས་པའི་རིགས་ནི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སྐྱེ་མཆེད་དྲུག་གི་ཁྱད་པར་གང་ཡིན་པ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>本性住種姓者。謂諸菩薩六處殊勝有如是相。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནི་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་དེ་འོངས་ལ་ཐོག་མ་མེད་པའི་དུས་ཅན་ཆོས་ཉིད་ཀྱིས་ཐོབ་པ་དེ་ལྟ་བུ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>從無始世展轉傳來法爾所得。是名本性住種姓。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་ཡང་དག་པར་སྒྲུབ་པའི་རིགས་ནི་སྔོན་དགེ་བའི་རྩ་བ་གོམས་པར་བྱས་པ་ལས་ཐོབ་པ་གང་ཡིན་པ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>習所成種性者，謂由前串習善根所得</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉན་ས་ལས་ཀྱང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《聲聞地》亦云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ས་བོན་དེས་འབྲས་བུ་མ་སྐྱེད་ཅིང་འབྲས་བུ་མ་གྲུབ་པ་ན་ཕྲ་བ་ཞེས་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「由此種子未能與果未習成果故名為細。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གང་གི་ཚེ་འབྲས་བུ་སྐྱེད་ཅིང་འབྲས་བུ་གྲུབ་པ་དེའི་ཚེ་ན་ནི་ས་བོན་གང་ཡིན་པ་དེ་དང་འབྲས་བུ་གང་ཡིན་པ་དེ་གཅིག་ཏུ་བསྡུས་ནས་དེའི་ཕྱིར་རིགས་དེ་རགས་པ་ཞེས་བྱ་བར་སྟོན་པར་འགྱུར་རོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若已與果已習成果。爾時種姓若種若果俱說名麁。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གསུང་འདི་དང་འོག་ནས་ཉི་སྣང་ལས་འབྱུང་བ་རྣམས་ལ་དཔགས་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若以此文和以下《二萬頌光明釋》所言推測，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལུགས་འདི་ལ་ཡང་རང་བཞིན་གནས་རིགས་དང་རྒྱས་འགྱུར་གྱི་རིགས་འགལ་བར་སྣང་བས་ཚོགས་ལམ་ཡན་ཆད་ན་རང་བཞིན་གནས་རིགས་མེད་པར་སྨྲ་དགོས་པ་འདྲ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>顯見此宗自性住種性與習所成種性亦是相違，故大抵須言從資糧道以上無自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕལ་ཆེར་ལ་ཡིད་བརྟན་མི་འདུག་གོ །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因多數不可信。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྐབས་འདིར་ཐེག་པ་གསུམ་པོ་སོ་སོར་རིགས་ངེས་པ་དང་གང་དུ་ཡང་རིགས་མ་ངེས་པ་དང་རིགས་ཆད་ཀྱི་སེམས་ཅན་སོགས་ཞལ་གྱིས་བཞེས་པ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於此主張：三乘各自決定種性與於何者也不定之種性與斷種性(一闡提)有情等，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་རྒྱན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《大乘莊嚴經論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལ་ལ་ཅིག་ཏུ་ཉེས་པར་སྤྱོད་ངེས་ཡོད། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>一向行惡行</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལ་ལ་དཀར་པོའི་ཆོས་རྣམས་ཀུན་ཏུ་བཅོམ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>普斷諸白法</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལ་ལ་ཐར་པ་ཆ་མཐུན་དགེ་བ་མེད། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>無有解脫分</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དཀར་པོ་དམན་པ་ཡོད་པ་རྒྱུ་དང་བྲལ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>善少亦無因</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཁོ་ན་རེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>有駁云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་རྒྱན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然則，與《大乘莊嚴經論》中云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་བཞིན་གཤེགས་ཉིད་དེ་ཡི་ཕྱིར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「故說諸眾生，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགྲོ་ཀུན་དེ་ཡི་སྙིང་པོ་ཅན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>名為如來藏。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སེམས་ཅན་ཐམས་ཅད་ཁམས་བདེ་བར་གཤེགས་པའི་སྙིང་པོ་ཅན་དུ་གསུངས་པ་དང་འགལ་ལོ་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>文說一切有情是具有如來藏界當成相違？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་འགལ་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：不成相違，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལུང་དེའི་དོན་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因此論義即</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་ཅན་ཐམས་ཅད་ཀྱི་སེམས་རང་བཞིན་གྱིས་འོད་གསལ་བའི་སྙིང་པོ་ཅན་དུ་བསྟན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>宣說一切有情心是自性光明藏故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་ཙམ་པ་རང་བཞིན་གནས་རིགས་འདུས་བྱས་སུ་བཞེད་པ་བཞིན་དུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བོད་ཁ་ཅིག་ཀྱང་སྒྲིབ་བཅས་ཀྱི་སེམས་གསལ་རིག རང་བཞིན་གནས་རིགས་སུ་འདོད་པ་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>亦有藏人許，具足障蓋之明而了知心，是自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱུད་བླར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《寶性論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དྲང་སོང་ཆེན་པོས་ཀུན་མཁྱེན་སྤྱན་གྱིས་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>大仙遍智眼，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཁམས་སྦྲང་རྩི་དང་འདྲ་འདི་གཟིགས་ནས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>見此種界蜜。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་བཞིན་ལུས་ཅན་ལ་ཡོད་ཟག་པ་མེད་པའི་ཤེས་པ་སྦྲང་མའི་རྩི་དང་འདྲ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>無漏智如[3]蜜在眾生身中</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བསྟོད་ཚོགས་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《讚頌集》：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བདེ་ལེགས་སེམས་ལས་སངས་རྒྱས་འབྱུང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「妙善心出佛，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་སེམས་དེ་ལ་ཕྱག་འཚལ་ལོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>禮敬此自心。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སོགས་ཀྱི་དོན་དུ་བསམས་ནའང་དེ་ནི་དེ་རྣམས་ཀྱི་དགོངས་པ་མ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>認為是此等引文之義，然非彼等意趣，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གནས་རིགས་སམ་བདེ་གཤེགས་སྙིང་པོ་ཆོས་དབྱིངས་འདུས་མ་བྱས་ཀྱི་སྟེང་ནས་བཤད་དགོས་པར་འོག་ནས་འཆད་པའི་ཕྱིར་རོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因自性住種性或法界如來藏必自無為法之基礎上詮釋，下當說明。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གསུམ་པ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於此《二萬頌光明釋》中聖者如何破斥之理</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཟག་མེད་ཡེ་ཤེས་ཀྱི་ས་བོན་ཆོས་ཅན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>無漏本智之種子為有法，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གནས་རིགས་མ་ཡིན་པར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>理應非自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གནས་རིགས་ཀྱི་དོན་མ་ཚང་བའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因不具自性住種性之義故，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་དག་གི་ནི་རང་བཞིན་དུ་གནས་པའི་རིགས་ལ་རང་བཞིན་དུ་བརྗོད་པའི་དོན་བརྗོད་དགོས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཁོ་ན་རེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>有駁云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་གྲུབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「不成立，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འཕགས་པའི་རྟོགས་པ་རྣམས་ཀྱི་རྒྱུ་བྱེད་པའི་ཕྱིར་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因作諸聖者證量之因故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱུའི་རྣམ་གྲངས་ཡིན་ནོ་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「若謂：是因之異名。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་རྒྱས་འགྱུར་གྱི་རིགས་ཆོས་ཅན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然則，習所成種性為有法，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>理應是彼，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因是彼故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復如</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྐྱེན་གྱིས་ཡང་དག་པར་བླངས་པ་ཡང་དེ་ཡིན་པ་དེས་ན་དོན་གྱི་ཁྱད་པར་ཅི་ཞིག་ཡོད།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆོས་ཉིད་ཀྱི་རྣམ་གྲངས་ཡིན་པ་ལ་ནི་ཉེས་པ་འདི་མེད་དོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཁོ་ན་རེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>有駁云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདིར་སེམས་ཅན་གྱི་སེམས་ཀྱི་ཆོས་ཉིད་རང་བཞིན་གནས་རིགས་སུ་བཤད་པ་མི་འཐད་པར་ཐལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「於此，說有情心之法性是自性住種性，不應理，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་སྡེ་རྒྱན་སོགས་ནས་ཟག་མེད་ཡེ་ཤེས་ཀྱི་ས་བོན་རང་བཞིན་གནས་རིགས་སུ་བཤད་པའི་ཕྱིར་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因《大乘莊嚴經論》等述無漏本智之種子是自性住種性故。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་ཁྱབ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：不周遍，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནས་རང་བཞིན་གནས་རིགས་སུ་བཤད་པའི་ཟག་མེད་ཡེ་ཤེས་ཀྱི་ས་བོན་རང་བཞིན་གནས་རིགས་བཏགས་པ་བ་ཡིན་ལ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>彼論所言「屬自性住種性之無漏本智種子」，是假名之自性住種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདིར་རང་བཞིན་གནས་རིགས་སུ་བཤད་པའི་སེམས་ཅན་གྱི་སེམས་ཀྱི་ཆོས་ཉིད་རང་བཞིན་གནས་རིགས་མཚན་ཉིད་པ་ཡིན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>而此中言「屬自性住種性之有情心法性」，是真實自性住種性故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡང་ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>復如《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡང་ན་དེ་དག་གི་རིགས་ནི་བཏགས་པ་བ་ཡིན་ལ་འདི་ནི་མཚན་ཉིད་པ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེས་ན་དེ་དང་འདི་འགྲིག་པ་མ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བཞི་པ་དབུ་མ་པ་རང་གི་ལུགས་བཤད་དུ་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡述中觀自宗有三：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཀྱི་ངོ་བོ་བཤད་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>講說種性之體性、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དབྱེ་བ་བཤད་པ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>講說分類、</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་སད་པའི་རྟགས་བཤད་པ་དང་གསུམ་དུ་ཡོད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>講說種性覺醒之徵兆。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོ་ནི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>講說種性之體性</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྐབས་འདིར་རིགས་ཀྱི་ངོ་བོ་བཞག་ཏུ་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>安立此處種性之體性：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གནས་གྱུར་པ་ན་ངོ་བོ་ཉིད་སྐུར་འགྱུར་བའམ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「轉依時成為自性身或</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཟུགས་སྐུར་འགྱུར་བ་གང་ཡང་རུང་བའི་སེམས་ཅན་གྱི་རིགས་ཅིག་ལ་འཇོག་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>色身隨一之有情種性。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉིས་པ་དབྱེ་བ་ལ་གཉིས་སུ་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>講說分類講說分類有二，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱུད་བླར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《寶性論》文中</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཏེར་དང་འབྲས་བུའི་ཤིང་བཞིན་དུ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如寶藏果樹，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཏེ་རྣམ་གཉིས་ཤེས་བྱ་སྟེ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>當知二種性。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐོགས་མེད་རང་བཞིན་གནས་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>無始自性住，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡང་དག་བླང་པ་མཆོག་ཉིད་དེ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>與正取勝性。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་རང་བཞིན་གནས་རིགས་དང་རྒྱས་འགྱུར་གྱི་རིགས་གཉིས་སུ་གསུངས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>說有自性住種性與習所成種性二種。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་རང་བཞིན་གནས་རིགས་གནས་གྱུར་པ་ལས་ངོ་བོ་ཉིད་སྐུ་དང་རྒྱས་གྱུར་གྱི་རིགས་གནས་གྱུར་པ་ལས་གཟུགས་སྐུར་འགྱུར་བ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，由自性住種性轉依成為自性身，由隨增佛性轉依成為色身，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཉིད་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《寶性論》云：「</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་འདི་གཉིས་ལས་སངས་རྒྱས་ཀྱི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>許由二種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྐུ་གསུམ་ཐོབ་པར་འདོད་པ་ཡིན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>乃得三佛身，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དང་པོའི་སྐུ་ནི་དང་པོ་སྟེ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>初身由初得，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གཉིས་པ་ཡིས་ནི་ཕྱི་མ་གཉིས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>由二得後二。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>V</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡང་རང་བཞིན་གནས་རིགས་རྟེན་དང་རྒྱས་འགྱུར་གྱི་རིགས་བརྟེན་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>復所依自性住種性與能依習所成種性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་གཉིས་ཀྱང་ཐེག་པ་རང་རང་གི་སློབ་པའི་གནས་སྐབས་སུ་ཡོད་ཅིང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此二者，亦各自於有學位時有；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མི་སློབ་པའི་གནས་སྐབས་སུ་མེད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>於無學位時無。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྒྱན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《大乘莊嚴經論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་དང་ནི་རྒྱས་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>性種及習種</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནི་རྟེན་དང་བརྟེན་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>所依及能依</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡོད་མེད་ཉིད་དང་ཡོན་ཏན་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>應知有非有</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྒྲོལ་བའི་དོན་དུ་ཤེས་པར་བྱ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>功德度義故</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་རང་བཞིན་གནས་རིགས་སམ་ཁམས་བདེ་བར་གཤེགས་པའི་སྙིང་པོའི་ངོ་བོ་ནི་སེམས་ཅན་གྱི་སེམས་ཀྱི་ཆོས་དབྱིངས་ཅིག་ལ་འཇོག་པ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，安立自性住種性或如來藏界之體性，是有情心之法界，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཕལ་ཆེན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《華嚴經》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཀྱཻ་རྒྱལ་བའི་སྲས་བྱང་ཆུབ་སེམས་དཔའི་རིགས་ཤེས་བྱ་བ་ནི་ཆོས་ཀྱི་དབྱིངས་ལྷུར་ལེན་པ་ནམ་མཁའ་ལྟར་ཡངས་པ་རང་བཞིན་གྱིས་འོད་གསལ་བ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལྟར་གནས་པའི་བྱང་ཆུབ་སེམས་དཔའ་དེ་འདས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་རིགས་སུ་སྐྱེས་པ་ཡིན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མ་འོངས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་རིགས་སུ་སྐྱེ་བ་ཡིན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་རིགས་སུ་སྐྱེས་པ་ཡིན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡུམ་བར་པ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་རྟོག་པ་དང་རྣམ་པར་རྟོག་པ་མེད་པའི་ཕྱིར་ཆགས་པ་མེད་པ་དང་ཆོས་ཐམས་ཅད་ཡོད་པར་མ་གྱུར་པ་ཉིད་ལ་བསླབ་པར་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེའི་དོན་འགྲེལ་པ་ལ་ཉི་སྣང་དུ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>為解此義《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་རྟོག་པ་དང་རྣམ་པར་རྟོག་པ་ནི་དངོས་པོ་དང་དེའི་མཚན་མ་ལ་མངོན་པར་ཞེན་པ་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་མེད་པ་ནི་ཆགས་པ་མེད་པ་ཉིད་དུ་རིག་པར་བྱའོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཡོད་པར་མ་གྱུར་པ་ཉིད་ནི་ཆོས་ཐམས་ཅད་ཀྱི་དེ་བཞིན་ཉིད་དོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེས་ན་འདི་ནི་ཆོས་ཀྱི་དབྱིངས་ཉིད་འཕགས་པའི་ཆོས་རྟོགས་པའི་རྒྱུ་ཡིན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་དུ་གནས་པའི་རིགས་སྒྲུབ་པའི་རྟེན་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་སྟོན་པར་བྱེད་དོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས་རྒྱས་འགྱུར་གྱི་རིགས་ཀྱི་ངོ་བོ་ཟག་མེད་ཀྱི་ཡེ་ཤེས་ཀྱི་ས་བོན་གྱི་སྟེང་ནས་འཇོག་པར་སྔར་བཤད་ཟིན་པ་ལྟར་རོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>在無漏本智種子之上安立習所成種性之體性，如前已述。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཡང་རང་བཞིན་གནས་རིགས་ལ་ཐེག་པ་སོ་སོའི་རྟོགས་པའི་རྟེན་བྱེད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>此復，於〔一〕自性住種性，〔基於〕是各乘證量所依與</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་པ་གསུམ་པོ་གང་རུང་གི་རྟོགས་པའི་རྟེན་དུ་བསྒྱུར་དུ་རུང་བའི་གནས་སྐབས་རིགས་གསུམ་དང་མ་ངེས་པའི་རིགས་ཞེས་ཐ་སྙད་བྱེད་ཀྱི།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>可轉為三乘證量隨一所依之時位，名為「三種性」與「不定種性」，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ལུགས་འདི་ལ་རིགས་ཆད་ཀྱི་སེམས་ཅན་ནི་མེད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然此宗無斷種性(一闡提)有情，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如云：「佛法身遍滿，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>真如無差別，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཡོད་ཕྱིར་ན་ལུས་ཅན་ཀུན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>皆實有佛性，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རྟག་ཏུ་སངས་རྒྱས་སྙིང་པོ་ཅན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>是故說常有。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་པའི་འགྲེལ་པར་མདོ་དྲངས་ནས་རིགས་ཆད་ཀྱི་སེམས་ཅད་བཤད་པ་དགོངས་པ་ཅན་དུ་སྒྲུབ་པའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>其釋論引經成立演說斷種性有情是具意趣，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ཉིད་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འདི་སྐད་དུ་ལོག་སྲེད་ཅན་གཏན་ཡོངས་སུ་མྱ་ངན་ལས་མི་འདའ་བའི་ཆོས་ཅན་ཞེས་གསུངས་པ་གང་ཡིན་པ་དེ་ནི་ཐེག་པ་ཆེན་པོའི་ཆོས་ལ་སྡང་བ་ལོག་སྲེག་ཅན་ཉིད་གྱི་རྒྱུ་ཡིན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་པ་ཆེན་པོའི་ཆོས་ལ་སྡང་བ་བཟློག་པའི་དོན་དུ་དུས་གཞན་ལ་དགོངས་ནས་གསུངས་པ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གྱི་རྣམ་པར་དག་པའི་རིགས་ཡོད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འགའ་ཡང་གཏན་རྣམ་པར་དག་པར་མི་འགྱུར་བ་ནི་འོས་པ་མ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གང་གི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱད་པར་མེད་པར་སེམས་ཅན་ཐམས་ཅད་ལ་རྣམ་པར་དག་པར་རུང་བ་ཉིད་ཡོད་པ་ལ་དགོངས་ནས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐོག་མེད་གྱུར་ཀྱང་ཐ་མ་དང་ལྡན་པ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་བཞིན་གྱིས་དག་རྟག་པའི་ཆོས་ཅན་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐོགས་མེད་སྦུབས་ཀྱིས་ཕྱི་སྒྲིབས་མི་མཐོང་སྟེ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཇི་ལྟར་གསེར་གྱི་གཟུགས་ནི་སྒྲིབས་པ་བཞིན། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས་སོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དོན་ནི་རིགས་ཆད་ཀྱི་སེམས་ཅན་མེད་ཀྱང་ལོག་སྲེད་ཅན་གཏན་ཡོངས་སུ་མྱ་ངན་ལས་མི་འདའ་བའི་ཆོས་ཅན་ནོ་ཞེས་པའི་མདོ་གསུངས་པ་མི་འཐད་མི་དགོས་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>意指雖無有斷種性之有情，但經言「邪貪者絕對不能般涅槃之有法」，不一定不應理，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་དེའི་དགོངས་གཞི་དགོས་པ་དངོས་ལ་གནོད་བྱེད་གསུམ་ཡོད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因為彼經有意趣處、所為與直接之違害三者故。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དགོངས་གཞི་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>一、意趣處，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་པ་ཆེན་པོའི་ཆོས་ལ་སྡང་བའི་གང་ཟག་ཡུན་རིང་དུ་ཐར་ལམ་མི་ཐོབ་པ་ལ་དགོངས་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>即慮及對大乘法起瞋之補特伽羅長時不能證解脫道。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དགོས་པ་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>二、所為，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་པ་ཆེན་པོའི་ཆོས་ལ་སྡང་བ་བཟློག་པའི་དོན་དུ་ཡིན་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>為棄捨大乘法之瞋</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དངོས་ལ་གནོད་བྱེད་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>三、直接之違害，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སེམས་ཅན་ཐམས་ཅད་ལ་སངས་རྒྱས་ཀྱི་འཕྲིན་ལས་འཇུག་ཅིང་རིགས་ཀྱིས་ཁྱབ་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>འོ་ན་སེམས་ཅན་ཐམས་ཅད་ལ་སངས་རྒྱས་ཀྱི་འཕྲིན་ལས་འཇུག་ཅིང་གངྒཱའི་ཀླུང་གི་བྱེ་མའི་གྲངས་དང་མཉམ་པའི་སངས་རྒྱས་འཇིག་རྟེན་དུ་བྱོན་ཀྱང་ད་དུང་རང་བཞིན་གནས་རིགས་དང་ལྡན་པའི་སེམས་ཅན་འགའ་ཞིག་མྱང་འདས་མ་ཐོབ་པའི་རྒྱུ་མཚན་ཅི་ཡིན་ཞེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>然則，既一切眾生均受佛事業之轉入，且如恆河沙數諸佛誕生於世間，但何以若干具自性住種性之有情始終無法證得涅槃，其因為何？</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཀྱི་ཉེས་དམིགས་བཞི་དང་ལྡན་པའི་རྒྱུ་མཚན་གྱིས་དེ་ལྟར་མ་ཐོབ་པ་ཡིན་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>答：因具有種性四種過患故而 未得如是〔涅槃〕，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉི་སྣང་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如《二萬頌光明釋》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གལ་ཏེ་རང་བཞིན་དུ་གནས་པའི་རིགས་འགའ་ཞིག་ཡོད་ན་ཅིའི་ཕྱིར་ཐོག་མ་དང་བྲལ་བའི་འཁོར་བར་གངྒཱའི་ཀླུང་གི་བྱེ་མ་དང་མཉམ་པའི་སངས་རྒྱས་མྱ་ངན་ལས་འདས་ཀྱང་ད་དུང་ཡང་རང་བཞིན་དུ་གནས་པའི་རིགས་དང་ལྡན་པའི་སྲོག་ཆགས་རྣམས་མྱ་ངན་ལས་མ་འདས་ཤེ་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ནི་ཉེས་དམིགས་རྣམ་པ་བཞི་དང་ལྡན་པའི་ཕྱིར་ཏེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཉོན་མོངས་པ་དང་གྲོགས་ངན་པ་དང་འཕོངས་པ་དང་གཞན་གྱི་དབང་རྣམས་ནི་དེའི་ཉེས་པ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གང་གསུངས་པ་ཡིན་ནོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཞེས་གསུངས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg></seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>གསུམ་པ་རིགས་སད་པའི་རྟགས་ཡོད་དེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>講說種性覺醒之徵兆</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྤྱིར་ན།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>一般</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མདོ་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如經云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དུ་བ་ལས་ནི་མེར་ཤེས་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>「如從煙知火，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཆུ་སྐྱར་ལས་ནི་ཆུར་ཤེས་ལྟར། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>憑水鷗知水；</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>བྱང་ཆུབ་སེམས་དཔའི་བློ་ལྡན་གྱིས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>菩薩具慧者，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ནི་མཚན་མ་དག་ལས་ཤེས། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>由相知種性。」</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་ལུས་ངག་གི་མཚན་མ་ལས་རིགས་སད་པ་དཔོག་པར་གསུངས་ཤིང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡釋以身語之相推度種性覺醒。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཁྱད་པར་རྒྱན་ལས།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>尤其《大乘莊嚴經論》云：</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>སྦྱོར་བའི་སྔོན་དུ་སྙིང་རྗེ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>大悲及大信</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>མོས་པ་དང་ནི་བཟོད་པ་དང༌། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>大忍及大行</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དགེ་ལ་ཡང་དག་སྤྱོད་པ་ནི། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>若有如此相</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རིགས་ཀྱི་རྟགས་སུ་ངེས་པར་བཤད། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>是名菩薩性</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཅེས་ཐེག་པ་ཆེན་པོའི་ལམ་དུ་མ་ཞུགས་པའི་གོང་ནས་སེམས་ཅན་ལ་དམིགས་པའི་སྙིང་རྗེ་ཆེ་བ་སོགས་རིགས་སད་པའི་རྟགས་སུ་བཤད་པའི་ཕྱིར།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>闡述未入大乘道前，緣有情之強烈悲愍等，乃種性覺醒之相。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་བཞིན་དུ་ཉན་ཐོས་ཀྱི་རིགས་ཅན་ལམ་དུ་མ་ཞུགས་པའི་སྐབས་སུ་གང་ཟག་གི་བདག་མེད་བསྟན་པ་ན་གོ་བ་རྣམ་དག་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>如是聲聞種性者未入道時，〔為彼〕開示補特伽羅無我，而起正確理解，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་བརྟེན་ནས་རབ་ཏུ་དགའ་བ་སྐྱེས་པ་ན་ཉན་ཐོས་ཀྱི་རིགས་སད་པ་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>依此生起極大歡喜時，即安立為聲聞種性覺醒。</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>རང་རྒྱལ་གྱི་རིགས་ཅན་ལམ་དུ་མ་ཞུགས་པའི་སྐབས་སུ་གཟུང་འཛིན་རྫས་གཞན་གྱིས་སྟོང་པའི་སྟོང་ཉིད་བསྟན་པ་ན་གོ་བ་རྣམ་དག་དང༌།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>緣覺種性未入道時，對彼宣說「以能所異質之空性」，因而正確理解，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>དེ་ལ་བརྟེན་ནས་རབ་ཏུ་དགའ་བ་སྐྱེས་པའི་ཚེ་རང་རྒྱལ་གྱི་རིགས་སད་པར་འཇོག་སྟེ།</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>依此起極大歡喜時，即安立為緣覺種性覺醒，</seg></tuv> </tu>
+
+<tu creationdate="20170417T084547Z" creationid="LF TMX maker 2.23"><prop type="Txt::Note">fu</prop>
+<tuv xml:lang="BO"><seg>ཐེག་ཆེན་ལ་བཤད་པ་དང་རིགས་པ་མཚུངས་པའི་ཕྱིར་རོ། །</seg></tuv>
+<tuv xml:lang="ZH-TW"><seg>因於大乘所說，〔二者〕理由相同故。</seg></tuv> </tu>
+
+
+</body>
+</tmx>
